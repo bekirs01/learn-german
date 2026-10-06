@@ -1,0 +1,4 @@
+# Development-time German audio tooling (never shipped in the app)
+__pycache__/
+work/
+verification.json

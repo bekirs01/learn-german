@@ -1,0 +1,4900 @@
+{
+  "items": [
+    {
+      "id": "phrase.greetings.hello",
+      "categoryId": "phrase_category.greetings",
+      "text": "Hallo.",
+      "pronunciation": "/hˈaloː/",
+      "sortOrder": 0,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.greetings.good_morning",
+      "categoryId": "phrase_category.greetings",
+      "text": "Guten Morgen.",
+      "pronunciation": "/ɡˈuːtən mˈɔɾɡən/",
+      "sortOrder": 1,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.greetings.good_afternoon",
+      "categoryId": "phrase_category.greetings",
+      "text": "Guten Tag.",
+      "pronunciation": "/ɡˈuːtən tˈɑːk/",
+      "sortOrder": 2,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.greetings.good_evening",
+      "categoryId": "phrase_category.greetings",
+      "text": "Guten Abend.",
+      "pronunciation": "/ɡˈuːtən ˈɑːbənt/",
+      "sortOrder": 3,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.greetings.good_night",
+      "categoryId": "phrase_category.greetings",
+      "text": "Gute Nacht.",
+      "pronunciation": "/ɡˈuːtə nˈaxt/",
+      "sortOrder": 4,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.greetings.hi",
+      "categoryId": "phrase_category.greetings",
+      "text": "Hi.",
+      "pronunciation": "/hˈaɪ/",
+      "sortOrder": 5,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.greetings.how_are_you",
+      "categoryId": "phrase_category.greetings",
+      "text": "Wie geht es dir?",
+      "pronunciation": "/viː ɡˈeːt ɛs dˈiːɾ/",
+      "sortOrder": 6,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.greetings.how_are_you_doing",
+      "categoryId": "phrase_category.greetings",
+      "text": "Wie läuft es bei dir?",
+      "pronunciation": "/viː lˈɔøft ɛs baɪ dˈiːɾ/",
+      "sortOrder": 7,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.greetings.im_fine_thank_you",
+      "categoryId": "phrase_category.greetings",
+      "text": "Mir geht es gut, danke.",
+      "pronunciation": "/miːɾ ɡˈeːt ɛs ɡˈuːt dˈaŋkə/",
+      "sortOrder": 8,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.greetings.im_doing_well",
+      "categoryId": "phrase_category.greetings",
+      "text": "Mir geht es gut.",
+      "pronunciation": "/miːɾ ɡˈeːt ɛs ɡˈuːt/",
+      "sortOrder": 9,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.greetings.not_too_bad",
+      "categoryId": "phrase_category.greetings",
+      "text": "Nicht schlecht.",
+      "pronunciation": "/nˈɪçt ʃlˈɛçt/",
+      "sortOrder": 10,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.greetings.and_you",
+      "categoryId": "phrase_category.greetings",
+      "text": "Und du?",
+      "pronunciation": "/ˈʊnt duː/",
+      "sortOrder": 11,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.greetings.welcome",
+      "categoryId": "phrase_category.greetings",
+      "text": "Willkommen.",
+      "pronunciation": "/vɪlkˈɔmən/",
+      "sortOrder": 12,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.greetings.see_you_later",
+      "categoryId": "phrase_category.greetings",
+      "text": "Bis später.",
+      "pronunciation": "/bɪs ʃpˈɛːtɜ/",
+      "sortOrder": 13,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.greetings.see_you_soon",
+      "categoryId": "phrase_category.greetings",
+      "text": "Bis bald.",
+      "pronunciation": "/bɪs bˈalt/",
+      "sortOrder": 14,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.greetings.goodbye",
+      "categoryId": "phrase_category.greetings",
+      "text": "Auf Wiedersehen.",
+      "pronunciation": "/aʊf viːdɜzˈeːən/",
+      "sortOrder": 15,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.greetings.bye",
+      "categoryId": "phrase_category.greetings",
+      "text": "Tschüss.",
+      "pronunciation": "/tʃˈʏs/",
+      "sortOrder": 16,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.greetings.have_a_nice_day",
+      "categoryId": "phrase_category.greetings",
+      "text": "Einen schönen Tag noch.",
+      "pronunciation": "/ˌaɪnən ʃˈøːnən tˈɑːk nɔx/",
+      "sortOrder": 17,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.greetings.take_care",
+      "categoryId": "phrase_category.greetings",
+      "text": "Pass auf dich auf.",
+      "pronunciation": "/pˈas aʊf dɪç ˈaʊf/",
+      "sortOrder": 18,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.greetings.nice_to_see_you",
+      "categoryId": "phrase_category.greetings",
+      "text": "Schön, dich zu sehen.",
+      "pronunciation": "/ʃˈøːn dɪç tsuː zˈeːən/",
+      "sortOrder": 19,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.greetings.whats_up",
+      "categoryId": "phrase_category.greetings",
+      "text": "Na, wie geht es?",
+      "pronunciation": "/nˈɑː viː ɡˈeːt ɛs/",
+      "sortOrder": 20,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.greetings.long_time_no_see",
+      "categoryId": "phrase_category.greetings",
+      "text": "Lange nicht gesehen.",
+      "pronunciation": "/lˈaŋə nˈɪçt ɡəzˈeːən/",
+      "sortOrder": 21,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.greetings.how_have_you_been",
+      "categoryId": "phrase_category.greetings",
+      "text": "Wie war es bei dir?",
+      "pronunciation": "/viː vɑːɾ ɛs baɪ dˈiːɾ/",
+      "sortOrder": 22,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.greetings.im_glad_to_see_you",
+      "categoryId": "phrase_category.greetings",
+      "text": "Ich freue mich, dich zu sehen.",
+      "pronunciation": "/ɪç frˈɔøə mɪç dɪç tsuː zˈeːən/",
+      "sortOrder": 23,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.greetings.welcome_back",
+      "categoryId": "phrase_category.greetings",
+      "text": "Willkommen zurück.",
+      "pronunciation": "/vɪlkˈɔmən tsuːrˈʏk/",
+      "sortOrder": 24,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.greetings.please_come_in",
+      "categoryId": "phrase_category.greetings",
+      "text": "Komm bitte herein.",
+      "pronunciation": "/kˈɔm bˈɪtə hɛrˈaɪn/",
+      "sortOrder": 25,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.greetings.after_you",
+      "categoryId": "phrase_category.greetings",
+      "text": "Nach dir.",
+      "pronunciation": "/nɑːx dˈiːɾ/",
+      "sortOrder": 26,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.greetings.sleep_well",
+      "categoryId": "phrase_category.greetings",
+      "text": "Schlaf gut.",
+      "pronunciation": "/ʃlˈɑːf ɡˈuːt/",
+      "sortOrder": 27,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.greetings.good_luck",
+      "categoryId": "phrase_category.greetings",
+      "text": "Viel Glück.",
+      "pronunciation": "/fˈiːl ɡlˈʏk/",
+      "sortOrder": 28,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.greetings.how_do_you_do",
+      "categoryId": "phrase_category.greetings",
+      "text": "Sehr erfreut.",
+      "pronunciation": "/zˈeːɾ ɛɾfrˈɔøt/",
+      "sortOrder": 29,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.greetings.whats_new",
+      "categoryId": "phrase_category.greetings",
+      "text": "Was gibt es Neues?",
+      "pronunciation": "/vˈas ɡˈiːpt ɛs nˈɔøəs/",
+      "sortOrder": 30,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.greetings.im_great",
+      "categoryId": "phrase_category.greetings",
+      "text": "Mir geht es super.",
+      "pronunciation": "/miːɾ ɡˈeːt ɛs zˈuːpɜ/",
+      "sortOrder": 31,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.greetings.hows_everything",
+      "categoryId": "phrase_category.greetings",
+      "text": "Wie läuft alles?",
+      "pronunciation": "/viː lˈɔøft ˈaləs/",
+      "sortOrder": 32,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.greetings.see_you_tonight",
+      "categoryId": "phrase_category.greetings",
+      "text": "Bis heute Abend.",
+      "pronunciation": "/bɪs hˈɔøtə ˈɑːbənt/",
+      "sortOrder": 33,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.greetings.enjoy_your_day",
+      "categoryId": "phrase_category.greetings",
+      "text": "Genieß deinen Tag.",
+      "pronunciation": "/ɡənˈiːs dˌaɪnən tˈɑːk/",
+      "sortOrder": 34,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.greetings.take_it_easy",
+      "categoryId": "phrase_category.greetings",
+      "text": "Mach's langsam.",
+      "pronunciation": "/maxs ˈlaŋzaːm/",
+      "sortOrder": 35,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.introductions.my_name_is_alex",
+      "categoryId": "phrase_category.introductions",
+      "text": "Ich heiße Alex.",
+      "pronunciation": "/ɪç hˈaɪsə ˈɑlɛks/",
+      "sortOrder": 0,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.introductions.what_is_your_name",
+      "categoryId": "phrase_category.introductions",
+      "text": "Wie heißt du?",
+      "pronunciation": "/viː hˈaɪst duː/",
+      "sortOrder": 1,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.introductions.nice_to_meet_you",
+      "categoryId": "phrase_category.introductions",
+      "text": "Freut mich.",
+      "pronunciation": "/frˈɔøt mɪç/",
+      "sortOrder": 2,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.introductions.how_old_are_you",
+      "categoryId": "phrase_category.introductions",
+      "text": "Wie alt bist du?",
+      "pronunciation": "/viː ˈalt bɪst duː/",
+      "sortOrder": 3,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.introductions.where_are_you_from",
+      "categoryId": "phrase_category.introductions",
+      "text": "Woher kommst du?",
+      "pronunciation": "/voːhˈeːɾ kˈɔmst duː/",
+      "sortOrder": 4,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.introductions.i_am_from_this_city",
+      "categoryId": "phrase_category.introductions",
+      "text": "Ich komme aus dieser Stadt.",
+      "pronunciation": "/ɪç kˈɔmə ˌaʊs dˌiːzɜ ʃtˈat/",
+      "sortOrder": 5,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.introductions.this_is_my_friend",
+      "categoryId": "phrase_category.introductions",
+      "text": "Das ist mein Freund.",
+      "pronunciation": "/das ɪst maɪn frˈɔønt/",
+      "sortOrder": 6,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.introductions.i_only_speak_a_little",
+      "categoryId": "phrase_category.introductions",
+      "text": "Ich spreche nur ein bisschen.",
+      "pronunciation": "/ɪç ʃpɾˈɛçə nˈuːɾ aɪn bˈɪsçən/",
+      "sortOrder": 7,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.introductions.i_speak_a_little_english",
+      "categoryId": "phrase_category.introductions",
+      "text": "Ich spreche ein bisschen Deutsch.",
+      "pronunciation": "/ɪç ʃpɾˈɛçə aɪn bˈɪsçən dˈɔøtʃ/",
+      "sortOrder": 8,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.introductions.do_you_speak_english",
+      "categoryId": "phrase_category.introductions",
+      "text": "Sprichst du Englisch?",
+      "pronunciation": "/ʃpɾˈɪkst duː ˈɛŋlɪʃ/",
+      "sortOrder": 9,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.introductions.can_you_speak_more_slowly",
+      "categoryId": "phrase_category.introductions",
+      "text": "Kannst du langsamer sprechen?",
+      "pronunciation": "/kˌanst duː lˈaŋzɑːmɜ ʃpɾˈɛçən/",
+      "sortOrder": 10,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.introductions.i_live_here",
+      "categoryId": "phrase_category.introductions",
+      "text": "Ich wohne hier.",
+      "pronunciation": "/ɪç vˈoːnə hˈiːɾ/",
+      "sortOrder": 11,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.introductions.i_live_nearby",
+      "categoryId": "phrase_category.introductions",
+      "text": "Ich wohne in der Nähe.",
+      "pronunciation": "/ɪç vˈoːnə ɪn dɛɾ nˈɛːə/",
+      "sortOrder": 12,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.introductions.what_do_you_do",
+      "categoryId": "phrase_category.introductions",
+      "text": "Was machst du beruflich?",
+      "pronunciation": "/vˈas mˈaxst duː bərˈuːflɪç/",
+      "sortOrder": 13,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.introductions.i_work_nearby",
+      "categoryId": "phrase_category.introductions",
+      "text": "Ich arbeite in der Nähe.",
+      "pronunciation": "/ɪç ˈaɾbaɪtə ɪn dɛɾ nˈɛːə/",
+      "sortOrder": 14,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.introductions.this_is_my_family",
+      "categoryId": "phrase_category.introductions",
+      "text": "Das ist meine Familie.",
+      "pronunciation": "/das ɪst mˌaɪnə famˈiːlɪə/",
+      "sortOrder": 15,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.introductions.let_me_introduce_myself",
+      "categoryId": "phrase_category.introductions",
+      "text": "Darf ich mich vorstellen?",
+      "pronunciation": "/dˈaɾf ɪç mɪç fˈoːɾʃtˌɛlən/",
+      "sortOrder": 16,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.introductions.let_me_introduce_my_friend",
+      "categoryId": "phrase_category.introductions",
+      "text": "Darf ich meinen Freund vorstellen?",
+      "pronunciation": "/dˈaɾf ɪç mˌaɪnən frˈɔønt fˈoːɾʃtˌɛlən/",
+      "sortOrder": 17,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.introductions.its_a_pleasure_to_meet_you",
+      "categoryId": "phrase_category.introductions",
+      "text": "Es ist mir eine Freude.",
+      "pronunciation": "/ɛsɪst miːɾ ˌaɪnə frˈɔødə/",
+      "sortOrder": 18,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.introductions.likewise",
+      "categoryId": "phrase_category.introductions",
+      "text": "Ebenso.",
+      "pronunciation": "/ˈeːbənzˌoː/",
+      "sortOrder": 19,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.introductions.i_didnt_catch_your_name",
+      "categoryId": "phrase_category.introductions",
+      "text": "Ich habe deinen Namen nicht verstanden.",
+      "pronunciation": "/ɪç hɑːbə dˌaɪnən nˈɑːmən nˈɪçt fɛɾʃtˈandən/",
+      "sortOrder": 20,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.introductions.could_you_say_your_name_again",
+      "categoryId": "phrase_category.introductions",
+      "text": "Könntest du deinen Namen noch einmal sagen?",
+      "pronunciation": "/kˈœntəst duː dˌaɪnən nˈɑːmən nɔx ˈaɪnmˌɑːl zˈɑːɡən/",
+      "sortOrder": 21,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.introductions.are_you_new_here",
+      "categoryId": "phrase_category.introductions",
+      "text": "Bist du neu hier?",
+      "pronunciation": "/bɪst duː nˈɔø hˈiːɾ/",
+      "sortOrder": 22,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.introductions.i_have_just_arrived",
+      "categoryId": "phrase_category.introductions",
+      "text": "Ich bin gerade angekommen.",
+      "pronunciation": "/ɪç bɪn ɡərˈɑːdə ˈanɡəkˌɔmən/",
+      "sortOrder": 23,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.introductions.i_am_visiting",
+      "categoryId": "phrase_category.introductions",
+      "text": "Ich bin zu Besuch.",
+      "pronunciation": "/ɪç bɪn tsuː bəzˈuːx/",
+      "sortOrder": 24,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.introductions.i_am_here_on_holiday",
+      "categoryId": "phrase_category.introductions",
+      "text": "Ich bin hier im Urlaub.",
+      "pronunciation": "/ɪç bɪn hˈiːɾ ɪm ˈuːɾlaʊp/",
+      "sortOrder": 25,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.introductions.i_am_here_for_work",
+      "categoryId": "phrase_category.introductions",
+      "text": "Ich bin beruflich hier.",
+      "pronunciation": "/ɪç bɪn bərˈuːflɪç hˈiːɾ/",
+      "sortOrder": 26,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.introductions.what_is_your_last_name",
+      "categoryId": "phrase_category.introductions",
+      "text": "Wie ist dein Nachname?",
+      "pronunciation": "/viː ɪst daɪn nˈaxnɑːmə/",
+      "sortOrder": 27,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.introductions.please_call_me_by_my_first_name",
+      "categoryId": "phrase_category.introductions",
+      "text": "Nenn mich bitte beim Vornamen.",
+      "pronunciation": "/nˈɛn mɪç bˈɪtə baɪm fˈɔɾnɑːmən/",
+      "sortOrder": 28,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.introductions.i_am_a_tourist",
+      "categoryId": "phrase_category.introductions",
+      "text": "Ich bin Tourist.",
+      "pronunciation": "/ɪç bɪn tuːrˈɪst/",
+      "sortOrder": 29,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.introductions.where_do_you_live",
+      "categoryId": "phrase_category.introductions",
+      "text": "Wo wohnst du?",
+      "pronunciation": "/vˌoː vˈoːnst duː/",
+      "sortOrder": 30,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.introductions.do_you_live_around_here",
+      "categoryId": "phrase_category.introductions",
+      "text": "Wohnst du hier in der Nähe?",
+      "pronunciation": "/vˈoːnst duː hˈiːɾ ɪn dɛɾ nˈɛːə/",
+      "sortOrder": 31,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.introductions.i_moved_here_recently",
+      "categoryId": "phrase_category.introductions",
+      "text": "Ich bin vor Kurzem hierhergezogen.",
+      "pronunciation": "/ɪç bɪn fˌɔɾ kˈʊɐtsəm hiːɾhɜɡeːtsˈoːɡən/",
+      "sortOrder": 32,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.introductions.i_am_learning_english",
+      "categoryId": "phrase_category.introductions",
+      "text": "Ich lerne Deutsch.",
+      "pronunciation": "/ɪç lˈɛɾnə dˈɔøtʃ/",
+      "sortOrder": 33,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.introductions.this_is_my_partner",
+      "categoryId": "phrase_category.introductions",
+      "text": "Das ist mein Partner.",
+      "pronunciation": "/das ɪst maɪn pˈaɾtnɜ/",
+      "sortOrder": 34,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.introductions.we_just_met",
+      "categoryId": "phrase_category.introductions",
+      "text": "Wir haben uns gerade kennengelernt.",
+      "pronunciation": "/viːɾ hˌɑːbən ʊns ɡərˈɑːdə kˈɛnənɡˌɛlɛɾnt/",
+      "sortOrder": 35,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.daily_conversation.thank_you",
+      "categoryId": "phrase_category.daily_conversation",
+      "text": "Danke.",
+      "pronunciation": "/dˈaŋkə/",
+      "sortOrder": 0,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.daily_conversation.thank_you_very_much",
+      "categoryId": "phrase_category.daily_conversation",
+      "text": "Vielen Dank.",
+      "pronunciation": "/fˈiːlən dˈaŋk/",
+      "sortOrder": 1,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.daily_conversation.youre_welcome",
+      "categoryId": "phrase_category.daily_conversation",
+      "text": "Gern geschehen.",
+      "pronunciation": "/ɡˈɛɾn ɡəʃˈeːən/",
+      "sortOrder": 2,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.daily_conversation.excuse_me",
+      "categoryId": "phrase_category.daily_conversation",
+      "text": "Entschuldigung.",
+      "pronunciation": "/ɛntʃˈʊldɪɡˌʊŋ/",
+      "sortOrder": 3,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.daily_conversation.im_sorry",
+      "categoryId": "phrase_category.daily_conversation",
+      "text": "Es tut mir leid.",
+      "pronunciation": "/ɛs tˈuːt miːɾ lˈaɪt/",
+      "sortOrder": 4,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.daily_conversation.i_dont_understand",
+      "categoryId": "phrase_category.daily_conversation",
+      "text": "Ich verstehe nicht.",
+      "pronunciation": "/ɪç fɛɾʃtˈeːə nˈɪçt/",
+      "sortOrder": 5,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.daily_conversation.can_you_repeat_that",
+      "categoryId": "phrase_category.daily_conversation",
+      "text": "Kannst du das wiederholen?",
+      "pronunciation": "/kˌanst duː das viːdɜhˈoːlən/",
+      "sortOrder": 6,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.daily_conversation.thats_fine",
+      "categoryId": "phrase_category.daily_conversation",
+      "text": "Das ist in Ordnung.",
+      "pronunciation": "/das ɪst ɪn ˈɔɾdnʊŋ/",
+      "sortOrder": 7,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.daily_conversation.i_agree",
+      "categoryId": "phrase_category.daily_conversation",
+      "text": "Ich stimme zu.",
+      "pronunciation": "/ɪç ʃtˈɪmə tsˈuː/",
+      "sortOrder": 8,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.daily_conversation.i_disagree",
+      "categoryId": "phrase_category.daily_conversation",
+      "text": "Ich bin anderer Meinung.",
+      "pronunciation": "/ɪç bɪn ˈandərɜ mˈaɪnʊŋ/",
+      "sortOrder": 9,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.daily_conversation.see_you_tomorrow",
+      "categoryId": "phrase_category.daily_conversation",
+      "text": "Bis morgen.",
+      "pronunciation": "/bɪs mˈɔɾɡən/",
+      "sortOrder": 10,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.daily_conversation.please",
+      "categoryId": "phrase_category.daily_conversation",
+      "text": "Bitte.",
+      "pronunciation": "/bˈɪtə/",
+      "sortOrder": 11,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.daily_conversation.of_course",
+      "categoryId": "phrase_category.daily_conversation",
+      "text": "Natürlich.",
+      "pronunciation": "/nɑːtˈyːɾlɪç/",
+      "sortOrder": 12,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.daily_conversation.no_problem",
+      "categoryId": "phrase_category.daily_conversation",
+      "text": "Kein Problem.",
+      "pronunciation": "/kˈaɪn pɾoːblˈeːm/",
+      "sortOrder": 13,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.daily_conversation.i_think_so",
+      "categoryId": "phrase_category.daily_conversation",
+      "text": "Ich denke schon.",
+      "pronunciation": "/ɪç dˈɛŋkə ʃˈoːn/",
+      "sortOrder": 14,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.daily_conversation.i_dont_think_so",
+      "categoryId": "phrase_category.daily_conversation",
+      "text": "Ich glaube nicht.",
+      "pronunciation": "/ɪç ɡlˈaʊbə nˈɪçt/",
+      "sortOrder": 15,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.daily_conversation.maybe_later",
+      "categoryId": "phrase_category.daily_conversation",
+      "text": "Vielleicht später.",
+      "pronunciation": "/fɪlˈaɪçt ʃpˈɛːtɜ/",
+      "sortOrder": 16,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.daily_conversation.thats_a_good_idea",
+      "categoryId": "phrase_category.daily_conversation",
+      "text": "Das ist eine gute Idee.",
+      "pronunciation": "/das ɪst ˌaɪnə ɡˈuːtə iːdˈeː/",
+      "sortOrder": 17,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.daily_conversation.i_dont_know",
+      "categoryId": "phrase_category.daily_conversation",
+      "text": "Ich weiß nicht.",
+      "pronunciation": "/ɪç vˈaɪs nˈɪçt/",
+      "sortOrder": 18,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.daily_conversation.wait_a_moment",
+      "categoryId": "phrase_category.daily_conversation",
+      "text": "Einen Moment bitte.",
+      "pronunciation": "/ˌaɪnən moːmˈɛnt bˈɪtə/",
+      "sortOrder": 19,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.daily_conversation.go_ahead",
+      "categoryId": "phrase_category.daily_conversation",
+      "text": "Nur zu.",
+      "pronunciation": "/nˈuːɾ tsˈuː/",
+      "sortOrder": 20,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.daily_conversation.never_mind",
+      "categoryId": "phrase_category.daily_conversation",
+      "text": "Schon gut.",
+      "pronunciation": "/ʃˌoːn ɡˈuːt/",
+      "sortOrder": 21,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.daily_conversation.absolutely",
+      "categoryId": "phrase_category.daily_conversation",
+      "text": "Unbedingt.",
+      "pronunciation": "/ˈʊnbədˌɪŋt/",
+      "sortOrder": 22,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.daily_conversation.i_got_it",
+      "categoryId": "phrase_category.daily_conversation",
+      "text": "Ich habe es verstanden.",
+      "pronunciation": "/ɪç hɑːbə ɛs fɛɾʃtˈandən/",
+      "sortOrder": 23,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.daily_conversation.could_you_help_me",
+      "categoryId": "phrase_category.daily_conversation",
+      "text": "Könntest du mir helfen?",
+      "pronunciation": "/kˈœntəst duː miːɾ hˈɛlfən/",
+      "sortOrder": 24,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.daily_conversation.what_did_you_say",
+      "categoryId": "phrase_category.daily_conversation",
+      "text": "Was hast du gesagt?",
+      "pronunciation": "/vˈas hast duː ɡəzˈɑːkt/",
+      "sortOrder": 25,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.daily_conversation.speak_slowly_please",
+      "categoryId": "phrase_category.daily_conversation",
+      "text": "Bitte sprich langsam.",
+      "pronunciation": "/bˈɪtə ʃpɾˈɪç lˈaŋzɑːm/",
+      "sortOrder": 26,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.daily_conversation.thats_right",
+      "categoryId": "phrase_category.daily_conversation",
+      "text": "Das stimmt.",
+      "pronunciation": "/das ʃtˈɪmt/",
+      "sortOrder": 27,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.daily_conversation.thats_wrong",
+      "categoryId": "phrase_category.daily_conversation",
+      "text": "Das ist falsch.",
+      "pronunciation": "/das ɪst fˈalʃ/",
+      "sortOrder": 28,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.daily_conversation.i_need_a_minute",
+      "categoryId": "phrase_category.daily_conversation",
+      "text": "Ich brauche eine Minute.",
+      "pronunciation": "/ɪç bɾˈaʊxə ˌaɪnə miːnˈuːtə/",
+      "sortOrder": 29,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.daily_conversation.lets_go",
+      "categoryId": "phrase_category.daily_conversation",
+      "text": "Los geht's.",
+      "pronunciation": "/lˈoːs ɡˈeːts/",
+      "sortOrder": 30,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.daily_conversation.ill_be_right_back",
+      "categoryId": "phrase_category.daily_conversation",
+      "text": "Ich bin gleich zurück.",
+      "pronunciation": "/ɪç bɪn ɡlˈaɪç tsuːrˈʏk/",
+      "sortOrder": 31,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.daily_conversation.dont_worry",
+      "categoryId": "phrase_category.daily_conversation",
+      "text": "Keine Sorge.",
+      "pronunciation": "/kˈaɪnə zˈɔɾɡə/",
+      "sortOrder": 32,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.daily_conversation.thats_great",
+      "categoryId": "phrase_category.daily_conversation",
+      "text": "Das ist toll.",
+      "pronunciation": "/das ɪst tˈɔl/",
+      "sortOrder": 33,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.daily_conversation.im_not_sure",
+      "categoryId": "phrase_category.daily_conversation",
+      "text": "Ich bin nicht sicher.",
+      "pronunciation": "/ɪç bɪn nˈɪçt zˈɪçɜ/",
+      "sortOrder": 34,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.daily_conversation.sounds_good",
+      "categoryId": "phrase_category.daily_conversation",
+      "text": "Klingt gut.",
+      "pronunciation": "/klˈɪŋt ɡˈuːt/",
+      "sortOrder": 35,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.questions.what_is_this",
+      "categoryId": "phrase_category.questions",
+      "text": "Was ist das?",
+      "pronunciation": "/vˈas ɪst das/",
+      "sortOrder": 0,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.questions.what_is_that",
+      "categoryId": "phrase_category.questions",
+      "text": "Was ist das dort?",
+      "pronunciation": "/vˈas ɪst das dˈɔɾt/",
+      "sortOrder": 1,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.questions.where_is_it",
+      "categoryId": "phrase_category.questions",
+      "text": "Wo ist es?",
+      "pronunciation": "/vˈoː ɪst ɛs/",
+      "sortOrder": 2,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.questions.who_is_that",
+      "categoryId": "phrase_category.questions",
+      "text": "Wer ist das?",
+      "pronunciation": "/vˈeːɾ ɪst das/",
+      "sortOrder": 3,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.questions.when_is_it",
+      "categoryId": "phrase_category.questions",
+      "text": "Wann ist das?",
+      "pronunciation": "/vˈan ɪst das/",
+      "sortOrder": 4,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.questions.why_is_that",
+      "categoryId": "phrase_category.questions",
+      "text": "Warum ist das so?",
+      "pronunciation": "/vɑːrˈʊm ɪst das zˈoː/",
+      "sortOrder": 5,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.questions.how_does_this_work",
+      "categoryId": "phrase_category.questions",
+      "text": "Wie funktioniert das?",
+      "pronunciation": "/viː fʊŋktsjˌoːnˈiːɾt das/",
+      "sortOrder": 6,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.questions.is_it_free",
+      "categoryId": "phrase_category.questions",
+      "text": "Ist das kostenlos?",
+      "pronunciation": "/ɪst das kˈɔstənlˌoːs/",
+      "sortOrder": 7,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.questions.what_time_is_it",
+      "categoryId": "phrase_category.questions",
+      "text": "Wie spät ist es?",
+      "pronunciation": "/viː ʃpˈɛːt ɪst ɛs/",
+      "sortOrder": 8,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.questions.how_much_is_it",
+      "categoryId": "phrase_category.questions",
+      "text": "Wie viel ist das?",
+      "pronunciation": "/viː fˈiːl ɪst das/",
+      "sortOrder": 9,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.questions.how_many_are_there",
+      "categoryId": "phrase_category.questions",
+      "text": "Wie viele sind es?",
+      "pronunciation": "/viː fˈiːlə zɪnt ɛs/",
+      "sortOrder": 10,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.questions.which_one_is_it",
+      "categoryId": "phrase_category.questions",
+      "text": "Welches ist es?",
+      "pronunciation": "/vˈɛlçəs ɪst ɛs/",
+      "sortOrder": 11,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.questions.whose_is_this",
+      "categoryId": "phrase_category.questions",
+      "text": "Wem gehört das?",
+      "pronunciation": "/vˈeːm ɡəhˈœɾt das/",
+      "sortOrder": 12,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.questions.how_far_is_it",
+      "categoryId": "phrase_category.questions",
+      "text": "Wie weit ist es?",
+      "pronunciation": "/viː vˈaɪt ɪst ɛs/",
+      "sortOrder": 13,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.questions.how_long_will_it_take",
+      "categoryId": "phrase_category.questions",
+      "text": "Wie lange dauert das?",
+      "pronunciation": "/viː lˈaŋə dˈaʊɜt das/",
+      "sortOrder": 14,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.questions.what_does_this_mean",
+      "categoryId": "phrase_category.questions",
+      "text": "Was bedeutet das?",
+      "pronunciation": "/vˈas bədˈɔøtət das/",
+      "sortOrder": 15,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.questions.can_i_ask_you_something",
+      "categoryId": "phrase_category.questions",
+      "text": "Darf ich dich etwas fragen?",
+      "pronunciation": "/dˈaɾf ɪç dɪç ˈɛtvɑːs frˈɑːɡən/",
+      "sortOrder": 16,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.questions.is_this_correct",
+      "categoryId": "phrase_category.questions",
+      "text": "Ist das richtig?",
+      "pronunciation": "/ɪst das rˈɪçtɪç/",
+      "sortOrder": 17,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.questions.is_it_ready",
+      "categoryId": "phrase_category.questions",
+      "text": "Ist es fertig?",
+      "pronunciation": "/ɪst ɛs fˈɛɾtɪç/",
+      "sortOrder": 18,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.questions.are_you_ready",
+      "categoryId": "phrase_category.questions",
+      "text": "Bist du bereit?",
+      "pronunciation": "/bɪst duː bərˈaɪt/",
+      "sortOrder": 19,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.questions.what_happened",
+      "categoryId": "phrase_category.questions",
+      "text": "Was ist passiert?",
+      "pronunciation": "/vˈas ɪst pasˈiːɾt/",
+      "sortOrder": 20,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.questions.is_it_possible",
+      "categoryId": "phrase_category.questions",
+      "text": "Ist das möglich?",
+      "pronunciation": "/ɪst das mˈøːklɪç/",
+      "sortOrder": 21,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.questions.can_i_come_in",
+      "categoryId": "phrase_category.questions",
+      "text": "Darf ich reinkommen?",
+      "pronunciation": "/dˈaɾf ɪç rˈaɪnkɔmən/",
+      "sortOrder": 22,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.questions.is_anyone_there",
+      "categoryId": "phrase_category.questions",
+      "text": "Ist da jemand?",
+      "pronunciation": "/ɪst dɑː jˈeːmant/",
+      "sortOrder": 23,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.questions.what_should_i_do",
+      "categoryId": "phrase_category.questions",
+      "text": "Was soll ich tun?",
+      "pronunciation": "/vˈas zˌɔl ɪç tˈuːn/",
+      "sortOrder": 24,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.questions.where_can_i_find_this",
+      "categoryId": "phrase_category.questions",
+      "text": "Wo finde ich das?",
+      "pronunciation": "/vˌoː fˈɪndə ɪç das/",
+      "sortOrder": 25,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.questions.how_do_you_spell_that",
+      "categoryId": "phrase_category.questions",
+      "text": "Wie schreibt man das?",
+      "pronunciation": "/viː ʃrˈaɪpt man das/",
+      "sortOrder": 26,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.questions.could_you_write_it_down",
+      "categoryId": "phrase_category.questions",
+      "text": "Könntest du das aufschreiben?",
+      "pronunciation": "/kˈœntəst duː das ˈaʊfʃrˌaɪbən/",
+      "sortOrder": 27,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.questions.is_this_yours",
+      "categoryId": "phrase_category.questions",
+      "text": "Gehört das dir?",
+      "pronunciation": "/ɡəhˈœɾt das dˈiːɾ/",
+      "sortOrder": 28,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.questions.what_is_the_date_today",
+      "categoryId": "phrase_category.questions",
+      "text": "Welches Datum haben wir heute?",
+      "pronunciation": "/vˈɛlçəs dˈɑtuːm hˌɑːbən viːɾ hˈɔøtə/",
+      "sortOrder": 29,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.questions.how_do_you_feel",
+      "categoryId": "phrase_category.questions",
+      "text": "Wie fühlst du dich?",
+      "pronunciation": "/viː fˈyːlst duː dˈɪç/",
+      "sortOrder": 30,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.questions.are_you_sure",
+      "categoryId": "phrase_category.questions",
+      "text": "Bist du sicher?",
+      "pronunciation": "/bɪst duː zˈɪçɜ/",
+      "sortOrder": 31,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.questions.what_do_you_think",
+      "categoryId": "phrase_category.questions",
+      "text": "Was denkst du?",
+      "pronunciation": "/vˈas dˈɛŋkst duː/",
+      "sortOrder": 32,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.questions.is_there_a_problem",
+      "categoryId": "phrase_category.questions",
+      "text": "Gibt es ein Problem?",
+      "pronunciation": "/ɡˈiːpt ɛs aɪn pɾoːblˈeːm/",
+      "sortOrder": 33,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.questions.may_i_ask_why",
+      "categoryId": "phrase_category.questions",
+      "text": "Darf ich fragen, warum?",
+      "pronunciation": "/dˈaɾf ɪç frˈɑːɡən vɑːrˈʊm/",
+      "sortOrder": 34,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.questions.do_you_have_a_minute",
+      "categoryId": "phrase_category.questions",
+      "text": "Hast du eine Minute?",
+      "pronunciation": "/hast duː ˌaɪnə miːnˈuːtə/",
+      "sortOrder": 35,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.restaurant.table_for_two",
+      "categoryId": "phrase_category.restaurant",
+      "text": "Einen Tisch für zwei, bitte.",
+      "pronunciation": "/ˌaɪnən tˈɪʃ fyːɾ tsvˈaɪ bˈɪtə/",
+      "sortOrder": 0,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.restaurant.is_there_a_table_available",
+      "categoryId": "phrase_category.restaurant",
+      "text": "Ist ein Tisch frei?",
+      "pronunciation": "/ɪst aɪn tˈɪʃ frˈaɪ/",
+      "sortOrder": 1,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.restaurant.can_i_see_the_menu",
+      "categoryId": "phrase_category.restaurant",
+      "text": "Kann ich die Speisekarte sehen?",
+      "pronunciation": "/kˌan ɪç diː ʃpˈaɪzeːkˌaɾtə zˈeːən/",
+      "sortOrder": 2,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.restaurant.i_would_like_to_order",
+      "categoryId": "phrase_category.restaurant",
+      "text": "Ich möchte bestellen.",
+      "pronunciation": "/ɪç mˈœçtə bəʃtˈɛlən/",
+      "sortOrder": 3,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.restaurant.i_would_like_this",
+      "categoryId": "phrase_category.restaurant",
+      "text": "Ich hätte gern das.",
+      "pronunciation": "/ɪç hˌɛtə ɡˈɛɾn das/",
+      "sortOrder": 4,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.restaurant.i_dont_eat_pork",
+      "categoryId": "phrase_category.restaurant",
+      "text": "Ich esse kein Schweinefleisch.",
+      "pronunciation": "/ɪç ˈɛsə kˈaɪn ʃvˈaɪnɛflˌaɪʃ/",
+      "sortOrder": 5,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.restaurant.the_check_please",
+      "categoryId": "phrase_category.restaurant",
+      "text": "Die Rechnung, bitte.",
+      "pronunciation": "/diː rˈɛçnʊŋ bˈɪtə/",
+      "sortOrder": 6,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.restaurant.this_is_delicious",
+      "categoryId": "phrase_category.restaurant",
+      "text": "Das ist lecker.",
+      "pronunciation": "/das ɪst lˈɛkɜ/",
+      "sortOrder": 7,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.restaurant.i_am_a_vegetarian",
+      "categoryId": "phrase_category.restaurant",
+      "text": "Ich bin Vegetarier.",
+      "pronunciation": "/ɪç bɪn vˌeːɡeːtˈɑːriːɜ/",
+      "sortOrder": 8,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.restaurant.what_do_you_recommend",
+      "categoryId": "phrase_category.restaurant",
+      "text": "Was empfehlen Sie?",
+      "pronunciation": "/vˈas ɛmpfˈeːlən ziː/",
+      "sortOrder": 9,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.restaurant.i_am_allergic_to_nuts",
+      "categoryId": "phrase_category.restaurant",
+      "text": "Ich bin allergisch gegen Nüsse.",
+      "pronunciation": "/ɪç bɪn ˈalɜɡˌɪʃ ɡˌeːɡən nˈʏsə/",
+      "sortOrder": 10,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.restaurant.does_this_contain_meat",
+      "categoryId": "phrase_category.restaurant",
+      "text": "Ist da Fleisch drin?",
+      "pronunciation": "/ɪst dɑː flˈaɪʃ dɾˈiːn/",
+      "sortOrder": 11,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.restaurant.is_this_spicy",
+      "categoryId": "phrase_category.restaurant",
+      "text": "Ist das scharf?",
+      "pronunciation": "/ɪst das ʃˈaɾf/",
+      "sortOrder": 12,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.restaurant.not_too_spicy_please",
+      "categoryId": "phrase_category.restaurant",
+      "text": "Bitte nicht zu scharf.",
+      "pronunciation": "/bˈɪtə nˈɪçt tsuː ʃˈaɾf/",
+      "sortOrder": 13,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.restaurant.ill_have_the_same",
+      "categoryId": "phrase_category.restaurant",
+      "text": "Ich nehme dasselbe.",
+      "pronunciation": "/ɪç nˈeːmə daszˈɛlbə/",
+      "sortOrder": 14,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.restaurant.could_we_have_some_bread",
+      "categoryId": "phrase_category.restaurant",
+      "text": "Könnten wir etwas Brot bekommen?",
+      "pronunciation": "/kˈœntən viːɾ ˈɛtvɑːs bɾˈoːt bəkˈɔmən/",
+      "sortOrder": 15,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.restaurant.a_glass_of_water_please",
+      "categoryId": "phrase_category.restaurant",
+      "text": "Ein Glas Wasser, bitte.",
+      "pronunciation": "/aɪn ɡlˈɑːs vˈasɜ bˈɪtə/",
+      "sortOrder": 16,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.restaurant.still_water_please",
+      "categoryId": "phrase_category.restaurant",
+      "text": "Stilles Wasser, bitte.",
+      "pronunciation": "/ʃtˈɪləs vˈasɜ bˈɪtə/",
+      "sortOrder": 17,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.restaurant.sparkling_water_please",
+      "categoryId": "phrase_category.restaurant",
+      "text": "Sprudelwasser, bitte.",
+      "pronunciation": "/ʃpɾˈuːdəlvˌasɜ bˈɪtə/",
+      "sortOrder": 18,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.restaurant.i_would_like_dessert",
+      "categoryId": "phrase_category.restaurant",
+      "text": "Ich hätte gern ein Dessert.",
+      "pronunciation": "/ɪç hˌɛtə ɡˈɛɾn aɪn dˈɛsɜt/",
+      "sortOrder": 19,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.restaurant.what_is_todays_special",
+      "categoryId": "phrase_category.restaurant",
+      "text": "Was ist das Tagesgericht?",
+      "pronunciation": "/vˈas ɪst das tˈɑɡɛsɡˌeːrɪçt/",
+      "sortOrder": 20,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.restaurant.is_service_included",
+      "categoryId": "phrase_category.restaurant",
+      "text": "Ist die Bedienung inbegriffen?",
+      "pronunciation": "/ɪst diː bədˈiːnʊŋ ˈɪnbɛɡɾˌɪfən/",
+      "sortOrder": 21,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.restaurant.we_are_ready_to_order",
+      "categoryId": "phrase_category.restaurant",
+      "text": "Wir möchten bestellen.",
+      "pronunciation": "/viːɾ mˈœçtən bəʃtˈɛlən/",
+      "sortOrder": 22,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.restaurant.can_we_have_a_few_more_minutes",
+      "categoryId": "phrase_category.restaurant",
+      "text": "Können wir noch ein paar Minuten haben?",
+      "pronunciation": "/kˌœnən viːɾ nɔx aɪn pˈɑːɾ miːnˈuːtən hˈɑːbən/",
+      "sortOrder": 23,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.restaurant.this_is_not_what_i_ordered",
+      "categoryId": "phrase_category.restaurant",
+      "text": "Das habe ich nicht bestellt.",
+      "pronunciation": "/das hɑːbə ɪç nˈɪçt bəʃtˈɛlt/",
+      "sortOrder": 24,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.restaurant.could_i_have_this_without_onions",
+      "categoryId": "phrase_category.restaurant",
+      "text": "Könnte ich das ohne Zwiebeln haben?",
+      "pronunciation": "/kˈœntə ɪç das ˈoːnə tsvˈiːbəln hˈɑːbən/",
+      "sortOrder": 25,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.restaurant.a_table_by_the_window_please",
+      "categoryId": "phrase_category.restaurant",
+      "text": "Einen Tisch am Fenster, bitte.",
+      "pronunciation": "/ˌaɪnən tˈɪʃ am fˈɛnstɜ bˈɪtə/",
+      "sortOrder": 26,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.restaurant.i_would_like_to_pay",
+      "categoryId": "phrase_category.restaurant",
+      "text": "Ich möchte zahlen.",
+      "pronunciation": "/ɪç mˈœçtə tsˈɑːlən/",
+      "sortOrder": 27,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.restaurant.can_we_split_the_bill",
+      "categoryId": "phrase_category.restaurant",
+      "text": "Können wir die Rechnung teilen?",
+      "pronunciation": "/kˌœnən viːɾ diː rˈɛçnʊŋ tˈaɪlən/",
+      "sortOrder": 28,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.restaurant.that_was_a_lovely_meal",
+      "categoryId": "phrase_category.restaurant",
+      "text": "Das war ein tolles Essen.",
+      "pronunciation": "/das vɑːɾ aɪn tˈɔləs ˈɛsən/",
+      "sortOrder": 29,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.restaurant.could_i_have_extra_napkins",
+      "categoryId": "phrase_category.restaurant",
+      "text": "Könnte ich extra Servietten haben?",
+      "pronunciation": "/kˈœntə ɪç ˈɛkstɾɑː zˈɛɾviːtən hˈɑːbən/",
+      "sortOrder": 30,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.restaurant.is_there_a_vegetarian_option",
+      "categoryId": "phrase_category.restaurant",
+      "text": "Gibt es eine vegetarische Option?",
+      "pronunciation": "/ɡˈiːpt ɛs ˌaɪnə vˌeːɡeːtˈɑrɪʃə ɔptsjˈoːn/",
+      "sortOrder": 31,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.restaurant.how_long_is_the_wait",
+      "categoryId": "phrase_category.restaurant",
+      "text": "Wie lange ist die Wartezeit?",
+      "pronunciation": "/viː lˈaŋə ɪst diː vˈaɾteːtsˌaɪt/",
+      "sortOrder": 32,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.restaurant.we_have_a_reservation_for_dinner",
+      "categoryId": "phrase_category.restaurant",
+      "text": "Wir haben eine Reservierung zum Abendessen.",
+      "pronunciation": "/viːɾ hˌɑːbən ˌaɪnə rˌeːzɛɾvˈiːrʊŋ tsʊm ˈɑːbəndˌɛsən/",
+      "sortOrder": 33,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.restaurant.i_would_like_the_chicken",
+      "categoryId": "phrase_category.restaurant",
+      "text": "Ich hätte gern das Hähnchen.",
+      "pronunciation": "/ɪç hˌɛtə ɡˈɛɾn das hˈɛːnçən/",
+      "sortOrder": 34,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.restaurant.the_food_is_cold",
+      "categoryId": "phrase_category.restaurant",
+      "text": "Das Essen ist kalt.",
+      "pronunciation": "/das ˈɛsən ɪst kˈalt/",
+      "sortOrder": 35,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.cafe.a_coffee_please",
+      "categoryId": "phrase_category.cafe",
+      "text": "Einen Kaffee, bitte.",
+      "pronunciation": "/ˌaɪnən kˈafeː bˈɪtə/",
+      "sortOrder": 0,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.cafe.with_milk_please",
+      "categoryId": "phrase_category.cafe",
+      "text": "Mit Milch, bitte.",
+      "pronunciation": "/mɪt mˈɪlç bˈɪtə/",
+      "sortOrder": 1,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.cafe.to_go_please",
+      "categoryId": "phrase_category.cafe",
+      "text": "Zum Mitnehmen, bitte.",
+      "pronunciation": "/tsʊm mˈɪtnˌeːmən bˈɪtə/",
+      "sortOrder": 2,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.cafe.for_here_please",
+      "categoryId": "phrase_category.cafe",
+      "text": "Zum Hiertrinken, bitte.",
+      "pronunciation": "/tsʊm hiːɾtɾˈɪŋkən bˈɪtə/",
+      "sortOrder": 3,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.cafe.do_you_have_tea",
+      "categoryId": "phrase_category.cafe",
+      "text": "Haben Sie Tee?",
+      "pronunciation": "/hˌɑːbən ziː tˈeː/",
+      "sortOrder": 4,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.cafe.something_sweet_please",
+      "categoryId": "phrase_category.cafe",
+      "text": "Etwas Süßes, bitte.",
+      "pronunciation": "/ˈɛtvɑːs zˈyːsəs bˈɪtə/",
+      "sortOrder": 5,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.cafe.can_i_sit_here",
+      "categoryId": "phrase_category.cafe",
+      "text": "Darf ich mich hier setzen?",
+      "pronunciation": "/dˈaɾf ɪç mɪç hˈiːɾ zˈɛtsən/",
+      "sortOrder": 6,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.cafe.another_one_please",
+      "categoryId": "phrase_category.cafe",
+      "text": "Noch einen, bitte.",
+      "pronunciation": "/nɔx ˈaɪnən bˈɪtə/",
+      "sortOrder": 7,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.cafe.an_espresso_please",
+      "categoryId": "phrase_category.cafe",
+      "text": "Einen Espresso, bitte.",
+      "pronunciation": "/ˌaɪnən ˌɛspɾˈɛso bˈɪtə/",
+      "sortOrder": 8,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.cafe.a_latte_please",
+      "categoryId": "phrase_category.cafe",
+      "text": "Einen Latte, bitte.",
+      "pronunciation": "/ˌaɪnən lˈatə bˈɪtə/",
+      "sortOrder": 9,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.cafe.how_much_is_the_coffee",
+      "categoryId": "phrase_category.cafe",
+      "text": "Was kostet der Kaffee?",
+      "pronunciation": "/vˈas kˈɔstət dɛɾ kˈafeː/",
+      "sortOrder": 10,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.cafe.iced_coffee_please",
+      "categoryId": "phrase_category.cafe",
+      "text": "Einen Eiskaffee, bitte.",
+      "pronunciation": "/ˌaɪnən ˈaɪskafˌeː bˈɪtə/",
+      "sortOrder": 11,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.cafe.with_sugar_please",
+      "categoryId": "phrase_category.cafe",
+      "text": "Mit Zucker, bitte.",
+      "pronunciation": "/mɪt tsˈʊkɜ bˈɪtə/",
+      "sortOrder": 12,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.cafe.without_sugar_please",
+      "categoryId": "phrase_category.cafe",
+      "text": "Ohne Zucker, bitte.",
+      "pronunciation": "/ˈoːnə tsˈʊkɜ bˈɪtə/",
+      "sortOrder": 13,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.cafe.do_you_have_oat_milk",
+      "categoryId": "phrase_category.cafe",
+      "text": "Haben Sie Hafermilch?",
+      "pronunciation": "/hˌɑːbən ziː hˈɑfɜmˌɪlç/",
+      "sortOrder": 14,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.cafe.a_slice_of_cake_please",
+      "categoryId": "phrase_category.cafe",
+      "text": "Ein Stück Kuchen, bitte.",
+      "pronunciation": "/aɪn ʃtˈʏk kˈuːxən bˈɪtə/",
+      "sortOrder": 15,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.cafe.can_i_have_the_wifi_password",
+      "categoryId": "phrase_category.cafe",
+      "text": "Kann ich das WLAN-Passwort haben?",
+      "pronunciation": "/kˌan ɪç das vˈeːlˈɑːnpˈasvɔɾt hˈɑːbən/",
+      "sortOrder": 16,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.cafe.is_this_seat_taken",
+      "categoryId": "phrase_category.cafe",
+      "text": "Ist dieser Platz frei?",
+      "pronunciation": "/ɪst dˌiːzɜ plˈats frˈaɪ/",
+      "sortOrder": 17,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.cafe.can_i_charge_my_phone_here",
+      "categoryId": "phrase_category.cafe",
+      "text": "Kann ich hier mein Handy laden?",
+      "pronunciation": "/kˌan ɪç hˈiːɾ maɪn hˈɛndiː lˈɑːdən/",
+      "sortOrder": 18,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.cafe.ill_have_a_small_coffee",
+      "categoryId": "phrase_category.cafe",
+      "text": "Ich nehme einen kleinen Kaffee.",
+      "pronunciation": "/ɪç nˈeːmə ˌaɪnən klˈaɪnən kˈafeː/",
+      "sortOrder": 19,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.cafe.ill_have_a_large_tea",
+      "categoryId": "phrase_category.cafe",
+      "text": "Ich nehme einen großen Tee.",
+      "pronunciation": "/ɪç nˈeːmə ˌaɪnən ɡɾˈoːsən tˈeː/",
+      "sortOrder": 20,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.cafe.extra_hot_please",
+      "categoryId": "phrase_category.cafe",
+      "text": "Extra heiß, bitte.",
+      "pronunciation": "/ˈɛkstɾɑː hˈaɪs bˈɪtə/",
+      "sortOrder": 21,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.cafe.decaf_please",
+      "categoryId": "phrase_category.cafe",
+      "text": "Koffeinfrei, bitte.",
+      "pronunciation": "/kˈɔfaɪnfrˌaɪ bˈɪtə/",
+      "sortOrder": 22,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.cafe.can_i_have_a_receipt",
+      "categoryId": "phrase_category.cafe",
+      "text": "Kann ich eine Quittung haben?",
+      "pronunciation": "/kˌan ɪç ˌaɪnə kvˈɪtʊŋ hˈɑːbən/",
+      "sortOrder": 23,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.cafe.ill_take_a_croissant",
+      "categoryId": "phrase_category.cafe",
+      "text": "Ich nehme ein Croissant.",
+      "pronunciation": "/ɪç nˈeːmə aɪn kɾˌoːɪsˈant/",
+      "sortOrder": 24,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.cafe.can_i_order_at_the_counter",
+      "categoryId": "phrase_category.cafe",
+      "text": "Kann ich an der Theke bestellen?",
+      "pronunciation": "/kˌan ɪç an dɛɾ tˈeːkə bəʃtˈɛlən/",
+      "sortOrder": 25,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.cafe.is_the_kitchen_still_open",
+      "categoryId": "phrase_category.cafe",
+      "text": "Hat die Küche noch auf?",
+      "pronunciation": "/hat diː kˈʏçə nɔx ˈaʊf/",
+      "sortOrder": 26,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.cafe.do_you_have_herbal_tea",
+      "categoryId": "phrase_category.cafe",
+      "text": "Haben Sie Kräutertee?",
+      "pronunciation": "/hˌɑːbən ziː kɾˈɔøtɜtˌeː/",
+      "sortOrder": 27,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.cafe.a_bottle_of_water_please",
+      "categoryId": "phrase_category.cafe",
+      "text": "Eine Flasche Wasser, bitte.",
+      "pronunciation": "/ˌaɪnə flˈaʃə vˈasɜ bˈɪtə/",
+      "sortOrder": 28,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.cafe.do_you_have_soy_milk",
+      "categoryId": "phrase_category.cafe",
+      "text": "Haben Sie Sojamilch?",
+      "pronunciation": "/hˌɑːbən ziː zˈoːjamˌɪlç/",
+      "sortOrder": 29,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.cafe.ill_wait_here",
+      "categoryId": "phrase_category.cafe",
+      "text": "Ich warte hier.",
+      "pronunciation": "/ɪç vˈaɾtə hˈiːɾ/",
+      "sortOrder": 30,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.cafe.can_i_have_a_spoon",
+      "categoryId": "phrase_category.cafe",
+      "text": "Kann ich einen Löffel haben?",
+      "pronunciation": "/kˌan ɪç ˌaɪnən lˈœfəl hˈɑːbən/",
+      "sortOrder": 31,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.cafe.this_is_too_sweet",
+      "categoryId": "phrase_category.cafe",
+      "text": "Das ist zu süß.",
+      "pronunciation": "/das ɪst tsuː zˈyːs/",
+      "sortOrder": 32,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.cafe.is_this_coffee_strong",
+      "categoryId": "phrase_category.cafe",
+      "text": "Ist der Kaffee stark?",
+      "pronunciation": "/ɪst dɛɾ kˈafeː ʃtˈaɾk/",
+      "sortOrder": 33,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.cafe.no_ice_please",
+      "categoryId": "phrase_category.cafe",
+      "text": "Ohne Eis, bitte.",
+      "pronunciation": "/ˈoːnə ˈaɪs bˈɪtə/",
+      "sortOrder": 34,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.cafe.what_pastries_do_you_have",
+      "categoryId": "phrase_category.cafe",
+      "text": "Welche Gebäckstücke haben Sie?",
+      "pronunciation": "/vˈɛlçə ɡəbˈɛkʃtʏkə hˈɑːbən ziː/",
+      "sortOrder": 35,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.shopping.how_much_is_this",
+      "categoryId": "phrase_category.shopping",
+      "text": "Wie viel kostet das?",
+      "pronunciation": "/viː fˈiːl kˈɔstət das/",
+      "sortOrder": 0,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.shopping.thats_too_expensive",
+      "categoryId": "phrase_category.shopping",
+      "text": "Das ist zu teuer.",
+      "pronunciation": "/das ɪst tsuː tˈɔøɜ/",
+      "sortOrder": 1,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.shopping.do_you_have_another_size",
+      "categoryId": "phrase_category.shopping",
+      "text": "Haben Sie eine andere Größe?",
+      "pronunciation": "/hˌɑːbən ziː ˌaɪnə ˈandərə ɡɾˈøːsə/",
+      "sortOrder": 2,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.shopping.i_will_take_it",
+      "categoryId": "phrase_category.shopping",
+      "text": "Ich nehme es.",
+      "pronunciation": "/ɪç nˈeːmə ɛs/",
+      "sortOrder": 3,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.shopping.can_i_pay_by_card",
+      "categoryId": "phrase_category.shopping",
+      "text": "Kann ich mit Karte zahlen?",
+      "pronunciation": "/kˌan ɪç mɪt kˈaɾtə tsˈɑːlən/",
+      "sortOrder": 4,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.shopping.i_am_just_looking",
+      "categoryId": "phrase_category.shopping",
+      "text": "Ich schaue nur.",
+      "pronunciation": "/ɪç ʃˈaʊə nˈuːɾ/",
+      "sortOrder": 5,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.shopping.where_is_the_fitting_room",
+      "categoryId": "phrase_category.shopping",
+      "text": "Wo ist die Umkleide?",
+      "pronunciation": "/vˌoː ɪst diː ˈʊmklˌaɪdə/",
+      "sortOrder": 6,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.shopping.a_receipt_please",
+      "categoryId": "phrase_category.shopping",
+      "text": "Einen Beleg, bitte.",
+      "pronunciation": "/ˌaɪnən bəlˈeːk bˈɪtə/",
+      "sortOrder": 7,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.shopping.do_you_have_this_in_blue",
+      "categoryId": "phrase_category.shopping",
+      "text": "Haben Sie das in Blau?",
+      "pronunciation": "/hˌɑːbən ziː das ɪn blˈaʊ/",
+      "sortOrder": 8,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.shopping.do_you_have_this_in_a_larger_size",
+      "categoryId": "phrase_category.shopping",
+      "text": "Haben Sie das in einer größeren Größe?",
+      "pronunciation": "/hˌɑːbən ziː das ɪn ˌaɪnɜ ɡɾˈøːsərən ɡɾˈøːsə/",
+      "sortOrder": 9,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.shopping.can_i_try_this_on",
+      "categoryId": "phrase_category.shopping",
+      "text": "Kann ich das anprobieren?",
+      "pronunciation": "/kˌan ɪç das ˈanpɾoːbˌiːrən/",
+      "sortOrder": 10,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.shopping.its_a_little_too_small",
+      "categoryId": "phrase_category.shopping",
+      "text": "Es ist etwas zu klein.",
+      "pronunciation": "/ɛsɪst ˈɛtvɑːs tsuː klˈaɪn/",
+      "sortOrder": 11,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.shopping.its_a_little_too_big",
+      "categoryId": "phrase_category.shopping",
+      "text": "Es ist etwas zu groß.",
+      "pronunciation": "/ɛsɪst ˈɛtvɑːs tsuː ɡɾˈoːs/",
+      "sortOrder": 12,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.shopping.do_you_have_a_cheaper_one",
+      "categoryId": "phrase_category.shopping",
+      "text": "Haben Sie etwas Günstigeres?",
+      "pronunciation": "/hˌɑːbən ziː ˈɛtvɑːs ɡˈʏnstɪɡərəs/",
+      "sortOrder": 13,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.shopping.is_there_a_discount",
+      "categoryId": "phrase_category.shopping",
+      "text": "Gibt es einen Rabatt?",
+      "pronunciation": "/ɡˈiːpt ɛs ˌaɪnən rˈɑbat/",
+      "sortOrder": 14,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.shopping.can_i_pay_in_cash",
+      "categoryId": "phrase_category.shopping",
+      "text": "Kann ich bar zahlen?",
+      "pronunciation": "/kˌan ɪç bˈɑːɾ tsˈɑːlən/",
+      "sortOrder": 15,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.shopping.can_i_return_this",
+      "categoryId": "phrase_category.shopping",
+      "text": "Kann ich das zurückgeben?",
+      "pronunciation": "/kˌan ɪç das tsuːrˈʏkɡˌeːbən/",
+      "sortOrder": 16,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.shopping.i_would_like_a_refund",
+      "categoryId": "phrase_category.shopping",
+      "text": "Ich möchte eine Rückerstattung.",
+      "pronunciation": "/ɪç mˈœçtə ˌaɪnə rˈʏkɜstˌatʊŋ/",
+      "sortOrder": 17,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.shopping.where_is_the_cashier",
+      "categoryId": "phrase_category.shopping",
+      "text": "Wo ist die Kasse?",
+      "pronunciation": "/vˌoː ɪst diː kˈasə/",
+      "sortOrder": 18,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.shopping.im_looking_for_a_gift",
+      "categoryId": "phrase_category.shopping",
+      "text": "Ich suche ein Geschenk.",
+      "pronunciation": "/ɪç zˈuːxə aɪn ɡəʃˈɛŋk/",
+      "sortOrder": 19,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.shopping.can_i_have_a_bag_please",
+      "categoryId": "phrase_category.shopping",
+      "text": "Kann ich eine Tüte haben, bitte?",
+      "pronunciation": "/kˌan ɪç ˌaɪnə tˈyːtə hˈɑːbən bˈɪtə/",
+      "sortOrder": 20,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.shopping.what_time_do_you_close",
+      "categoryId": "phrase_category.shopping",
+      "text": "Wann schließen Sie?",
+      "pronunciation": "/vˈan ʃlˈiːsən ziː/",
+      "sortOrder": 21,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.shopping.are_you_open_tomorrow",
+      "categoryId": "phrase_category.shopping",
+      "text": "Haben Sie morgen auf?",
+      "pronunciation": "/hˌɑːbən ziː mˈɔɾɡən ˈaʊf/",
+      "sortOrder": 22,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.shopping.ill_take_two_of_these",
+      "categoryId": "phrase_category.shopping",
+      "text": "Ich nehme zwei davon.",
+      "pronunciation": "/ɪç nˈeːmə tsvˈaɪ dɑːfˈɔn/",
+      "sortOrder": 23,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.shopping.is_this_on_sale",
+      "categoryId": "phrase_category.shopping",
+      "text": "Ist das im Angebot?",
+      "pronunciation": "/ɪst das ɪm ˈanɡəbˌoːt/",
+      "sortOrder": 24,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.shopping.i_like_this_one",
+      "categoryId": "phrase_category.shopping",
+      "text": "Der gefällt mir.",
+      "pronunciation": "/dɛɾ ɡəfˈɛlt mˈiːɾ/",
+      "sortOrder": 25,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.shopping.ill_keep_looking",
+      "categoryId": "phrase_category.shopping",
+      "text": "Ich schaue noch weiter.",
+      "pronunciation": "/ɪç ʃˈaʊə nɔx vˈaɪtɜ/",
+      "sortOrder": 26,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.shopping.can_i_pay_by_phone",
+      "categoryId": "phrase_category.shopping",
+      "text": "Kann ich mit dem Handy zahlen?",
+      "pronunciation": "/kˌan ɪç mɪt deːm hˈɛndiː tsˈɑːlən/",
+      "sortOrder": 27,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.shopping.can_you_gift_wrap_this",
+      "categoryId": "phrase_category.shopping",
+      "text": "Können Sie das als Geschenk einpacken?",
+      "pronunciation": "/kˌœnən ziː das als ɡəʃˈɛŋk ˈaɪnpˌakən/",
+      "sortOrder": 28,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.shopping.do_you_have_this_in_black",
+      "categoryId": "phrase_category.shopping",
+      "text": "Haben Sie das in Schwarz?",
+      "pronunciation": "/hˌɑːbən ziː das ɪn ʃvˈaɾts/",
+      "sortOrder": 29,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.shopping.can_i_exchange_this",
+      "categoryId": "phrase_category.shopping",
+      "text": "Kann ich das umtauschen?",
+      "pronunciation": "/kˌan ɪç das ˈʊmtˌaʊʃən/",
+      "sortOrder": 30,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.shopping.where_are_the_shoes",
+      "categoryId": "phrase_category.shopping",
+      "text": "Wo sind die Schuhe?",
+      "pronunciation": "/vˌoː zɪnt diː ʃˈuːə/",
+      "sortOrder": 31,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.shopping.i_need_a_smaller_size",
+      "categoryId": "phrase_category.shopping",
+      "text": "Ich brauche eine kleinere Größe.",
+      "pronunciation": "/ɪç bɾˈaʊxə ˌaɪnə klˈaɪnərə ɡɾˈøːsə/",
+      "sortOrder": 32,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.shopping.how_much_is_that_in_total",
+      "categoryId": "phrase_category.shopping",
+      "text": "Wie viel macht das zusammen?",
+      "pronunciation": "/viː fˈiːl mˈaxt das tsuːzˈamən/",
+      "sortOrder": 33,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.shopping.can_you_hold_this_for_me",
+      "categoryId": "phrase_category.shopping",
+      "text": "Können Sie das für mich zurücklegen?",
+      "pronunciation": "/kˌœnən ziː das fyːɾ mɪç tsuːrˈʏklˌeːɡən/",
+      "sortOrder": 34,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.shopping.where_is_the_electronics_section",
+      "categoryId": "phrase_category.shopping",
+      "text": "Wo ist die Elektroabteilung?",
+      "pronunciation": "/vˌoː ɪst diː eːlˈɛktɾoːˌaptˌaɪlʊŋ/",
+      "sortOrder": 35,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.hotel.i_have_a_reservation",
+      "categoryId": "phrase_category.hotel",
+      "text": "Ich habe eine Reservierung.",
+      "pronunciation": "/ɪç hɑːbə ˌaɪnə rˌeːzɛɾvˈiːrʊŋ/",
+      "sortOrder": 0,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.hotel.a_room_for_two_nights",
+      "categoryId": "phrase_category.hotel",
+      "text": "Ein Zimmer für zwei Nächte.",
+      "pronunciation": "/aɪn tsˈɪmɜ fyːɾ tsvˈaɪ nˈɛçtə/",
+      "sortOrder": 1,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.hotel.what_time_is_check_in",
+      "categoryId": "phrase_category.hotel",
+      "text": "Wann ist der Check-in?",
+      "pronunciation": "/vˈan ɪst dɛɾ çˈɛkˈɪn/",
+      "sortOrder": 2,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.hotel.the_wifi_password_please",
+      "categoryId": "phrase_category.hotel",
+      "text": "Das WLAN-Passwort, bitte.",
+      "pronunciation": "/das vˈeːlˈɑːnpˈasvɔɾt bˈɪtə/",
+      "sortOrder": 3,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.hotel.can_i_have_extra_towels",
+      "categoryId": "phrase_category.hotel",
+      "text": "Kann ich extra Handtücher haben?",
+      "pronunciation": "/kˌan ɪç ˈɛkstɾɑː hˈanttˌʏçɜ hˈɑːbən/",
+      "sortOrder": 4,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.hotel.is_breakfast_included",
+      "categoryId": "phrase_category.hotel",
+      "text": "Ist das Frühstück inbegriffen?",
+      "pronunciation": "/ɪst das frˈyːʃtʏk ˈɪnbɛɡɾˌɪfən/",
+      "sortOrder": 5,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.hotel.i_would_like_a_quiet_room",
+      "categoryId": "phrase_category.hotel",
+      "text": "Ich hätte gern ein ruhiges Zimmer.",
+      "pronunciation": "/ɪç hˌɛtə ɡˈɛɾn aɪn rˈuːɪɡəs tsˈɪmɜ/",
+      "sortOrder": 6,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.hotel.where_is_the_elevator",
+      "categoryId": "phrase_category.hotel",
+      "text": "Wo ist der Aufzug?",
+      "pronunciation": "/vˌoː ɪst dɛɾ ˈaʊftsˌuːk/",
+      "sortOrder": 7,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.hotel.i_would_like_to_check_in",
+      "categoryId": "phrase_category.hotel",
+      "text": "Ich möchte einchecken.",
+      "pronunciation": "/ɪç mˈœçtə ˈaɪnçˌɛkən/",
+      "sortOrder": 8,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.hotel.i_would_like_to_check_out",
+      "categoryId": "phrase_category.hotel",
+      "text": "Ich möchte auschecken.",
+      "pronunciation": "/ɪç mˈœçtə ˈaʊsçˌɛkən/",
+      "sortOrder": 9,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.hotel.is_there_a_double_room_available",
+      "categoryId": "phrase_category.hotel",
+      "text": "Ist ein Doppelzimmer frei?",
+      "pronunciation": "/ɪst aɪn dˈɔpəltsˌɪmɜ frˈaɪ/",
+      "sortOrder": 10,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.hotel.a_room_with_a_view_please",
+      "categoryId": "phrase_category.hotel",
+      "text": "Ein Zimmer mit Aussicht, bitte.",
+      "pronunciation": "/aɪn tsˈɪmɜ mɪt ˈaʊszˌɪçt bˈɪtə/",
+      "sortOrder": 11,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.hotel.can_i_have_a_late_check_out",
+      "categoryId": "phrase_category.hotel",
+      "text": "Kann ich später auschecken?",
+      "pronunciation": "/kˌan ɪç ʃpˈɛːtɜ ˈaʊsçˌɛkən/",
+      "sortOrder": 12,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.hotel.what_time_is_breakfast",
+      "categoryId": "phrase_category.hotel",
+      "text": "Wann ist das Frühstück?",
+      "pronunciation": "/vˈan ɪst das frˈyːʃtʏk/",
+      "sortOrder": 13,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.hotel.where_is_the_breakfast_room",
+      "categoryId": "phrase_category.hotel",
+      "text": "Wo ist der Frühstücksraum?",
+      "pronunciation": "/vˌoː ɪst dɛɾ frˈyːʃtʏksrˌaʊm/",
+      "sortOrder": 14,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.hotel.the_air_conditioning_is_not_working",
+      "categoryId": "phrase_category.hotel",
+      "text": "Die Klimaanlage funktioniert nicht.",
+      "pronunciation": "/diː klˈiːmɑːnlˌɑːɡə fʊŋktsjˌoːnˈiːɾt nˈɪçt/",
+      "sortOrder": 15,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.hotel.can_i_have_extra_pillows",
+      "categoryId": "phrase_category.hotel",
+      "text": "Kann ich extra Kissen haben?",
+      "pronunciation": "/kˌan ɪç ˈɛkstɾɑː kˈɪsən hˈɑːbən/",
+      "sortOrder": 16,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.hotel.could_you_call_a_taxi_for_me",
+      "categoryId": "phrase_category.hotel",
+      "text": "Könnten Sie mir ein Taxi rufen?",
+      "pronunciation": "/kˈœntən ziː miːɾ aɪn tˈaksiː rˈuːfən/",
+      "sortOrder": 17,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.hotel.is_there_a_safe_in_the_room",
+      "categoryId": "phrase_category.hotel",
+      "text": "Gibt es einen Safe im Zimmer?",
+      "pronunciation": "/ɡˈiːpt ɛs ˌaɪnən sˈeɪf ɪm tsˈɪmɜ/",
+      "sortOrder": 18,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.hotel.can_i_leave_my_luggage_here",
+      "categoryId": "phrase_category.hotel",
+      "text": "Kann ich mein Gepäck hier lassen?",
+      "pronunciation": "/kˌan ɪç maɪn ɡəpˈɛk hˈiːɾ lˈasən/",
+      "sortOrder": 19,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.hotel.the_key_is_not_working",
+      "categoryId": "phrase_category.hotel",
+      "text": "Der Schlüssel funktioniert nicht.",
+      "pronunciation": "/dɛɾ ʃlˈʏsəl fʊŋktsjˌoːnˈiːɾt nˈɪçt/",
+      "sortOrder": 20,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.hotel.could_i_have_another_room_key",
+      "categoryId": "phrase_category.hotel",
+      "text": "Könnte ich einen weiteren Zimmerschlüssel haben?",
+      "pronunciation": "/kˈœntə ɪç ˌaɪnən vˈaɪtərən tsˈɪmɜʃlˌʏsəl hˈɑːbən/",
+      "sortOrder": 21,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.hotel.is_there_parking",
+      "categoryId": "phrase_category.hotel",
+      "text": "Gibt es Parkplätze?",
+      "pronunciation": "/ɡˈiːpt ɛs pˈaɾkplɛtsə/",
+      "sortOrder": 22,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.hotel.how_much_is_a_night",
+      "categoryId": "phrase_category.hotel",
+      "text": "Was kostet eine Nacht?",
+      "pronunciation": "/vˈas kˈɔstət ˌaɪnə nˈaxt/",
+      "sortOrder": 23,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.hotel.i_booked_online",
+      "categoryId": "phrase_category.hotel",
+      "text": "Ich habe online gebucht.",
+      "pronunciation": "/ɪç hɑːbə ˈɒnlaɪn ɡəbˈuːxt/",
+      "sortOrder": 24,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.hotel.could_you_tell_me_my_room_number",
+      "categoryId": "phrase_category.hotel",
+      "text": "Könnten Sie mir meine Zimmernummer sagen?",
+      "pronunciation": "/kˈœntən ziː miːɾ mˌaɪnə tsˈɪmɜnˌʊmɜ zˈɑːɡən/",
+      "sortOrder": 25,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.hotel.there_is_a_problem_with_my_room",
+      "categoryId": "phrase_category.hotel",
+      "text": "Es gibt ein Problem mit meinem Zimmer.",
+      "pronunciation": "/ɛs ɡˈiːpt aɪn pɾoːblˈeːm mɪt mˌaɪnəm tsˈɪmɜ/",
+      "sortOrder": 26,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.hotel.the_shower_is_not_working",
+      "categoryId": "phrase_category.hotel",
+      "text": "Die Dusche funktioniert nicht.",
+      "pronunciation": "/diː dˈuːʃə fʊŋktsjˌoːnˈiːɾt nˈɪçt/",
+      "sortOrder": 27,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.hotel.is_there_a_gym",
+      "categoryId": "phrase_category.hotel",
+      "text": "Gibt es ein Fitnessstudio?",
+      "pronunciation": "/ɡˈiːpt ɛs aɪn fˈɪtnɛsstˌuːdɪˌoː/",
+      "sortOrder": 28,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.hotel.where_is_the_reception",
+      "categoryId": "phrase_category.hotel",
+      "text": "Wo ist die Rezeption?",
+      "pronunciation": "/vˌoː ɪst diː rˌeːtsɛptsjˈoːn/",
+      "sortOrder": 29,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.hotel.i_would_like_a_wake_up_call",
+      "categoryId": "phrase_category.hotel",
+      "text": "Ich hätte gern einen Weckruf.",
+      "pronunciation": "/ɪç hˌɛtə ɡˈɛɾn ˌaɪnən vˈɛkɾuːf/",
+      "sortOrder": 30,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.hotel.can_i_extend_my_stay",
+      "categoryId": "phrase_category.hotel",
+      "text": "Kann ich meinen Aufenthalt verlängern?",
+      "pronunciation": "/kˌan ɪç mˌaɪnən ˈaʊfənthˌalt fɛɾlˈɛŋɜn/",
+      "sortOrder": 31,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.hotel.the_room_is_too_noisy",
+      "categoryId": "phrase_category.hotel",
+      "text": "Das Zimmer ist zu laut.",
+      "pronunciation": "/das tsˈɪmɜ ɪst tsuː lˈaʊt/",
+      "sortOrder": 32,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.hotel.could_you_send_someone_up",
+      "categoryId": "phrase_category.hotel",
+      "text": "Könnten Sie jemanden hochschicken?",
+      "pronunciation": "/kˈœntən ziː jˈeːmandən hˈoːxʃˌɪkən/",
+      "sortOrder": 33,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.hotel.i_would_like_to_pay_in_cash",
+      "categoryId": "phrase_category.hotel",
+      "text": "Ich möchte bar zahlen.",
+      "pronunciation": "/ɪç mˈœçtə bˈɑːɾ tsˈɑːlən/",
+      "sortOrder": 34,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.hotel.the_room_is_not_clean",
+      "categoryId": "phrase_category.hotel",
+      "text": "Das Zimmer ist nicht sauber.",
+      "pronunciation": "/das tsˈɪmɜ ɪst nˈɪçt zˈaʊbɜ/",
+      "sortOrder": 35,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.airport.where_is_the_gate",
+      "categoryId": "phrase_category.airport",
+      "text": "Wo ist das Gate?",
+      "pronunciation": "/vˌoː ɪst das ɡˈɑːtə/",
+      "sortOrder": 0,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.airport.where_is_baggage_claim",
+      "categoryId": "phrase_category.airport",
+      "text": "Wo ist die Gepäckausgabe?",
+      "pronunciation": "/vˌoː ɪst diː ɡəpˈɛkaʊsɡˌɑːbə/",
+      "sortOrder": 1,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.airport.i_need_to_check_in",
+      "categoryId": "phrase_category.airport",
+      "text": "Ich muss einchecken.",
+      "pronunciation": "/ɪç mˈʊs ˈaɪnçˌɛkən/",
+      "sortOrder": 2,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.airport.this_is_my_passport",
+      "categoryId": "phrase_category.airport",
+      "text": "Das ist mein Reisepass.",
+      "pronunciation": "/das ɪst maɪn rˈaɪzeːpˌas/",
+      "sortOrder": 3,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.airport.is_this_the_line_for_security",
+      "categoryId": "phrase_category.airport",
+      "text": "Ist das die Schlange zur Sicherheitskontrolle?",
+      "pronunciation": "/ɪst das diː ʃlˈaŋə tsuːɾ zˈɪçɜhˌaɪtskɔntɾˌɔlə/",
+      "sortOrder": 4,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.airport.my_flight_is_delayed",
+      "categoryId": "phrase_category.airport",
+      "text": "Mein Flug hat Verspätung.",
+      "pronunciation": "/maɪn flˈuːk hat fɛɾʃpˈɛːtʊŋ/",
+      "sortOrder": 5,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.airport.where_is_the_restroom",
+      "categoryId": "phrase_category.airport",
+      "text": "Wo ist die Toilette?",
+      "pronunciation": "/vˌoː ɪst diː tˈoːiːlˌɛtə/",
+      "sortOrder": 6,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.airport.i_have_a_connecting_flight",
+      "categoryId": "phrase_category.airport",
+      "text": "Ich habe einen Anschlussflug.",
+      "pronunciation": "/ɪç hɑːbə ˌaɪnən ˈanʃlˌʊsfluːk/",
+      "sortOrder": 7,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.airport.where_is_the_check_in_desk",
+      "categoryId": "phrase_category.airport",
+      "text": "Wo ist der Check-in-Schalter?",
+      "pronunciation": "/vˌoː ɪst dɛɾ çˈɛkɪnʃˈaltɜ/",
+      "sortOrder": 8,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.airport.which_gate_is_it",
+      "categoryId": "phrase_category.airport",
+      "text": "Welches Gate ist es?",
+      "pronunciation": "/vˈɛlçəs ɡˈɑːtə ɪst ɛs/",
+      "sortOrder": 9,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.airport.has_boarding_started",
+      "categoryId": "phrase_category.airport",
+      "text": "Hat das Boarding schon begonnen?",
+      "pronunciation": "/hat das bˈɔːdɪŋ ʃˌoːn bəɡˈɔnən/",
+      "sortOrder": 10,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.airport.i_would_like_a_window_seat",
+      "categoryId": "phrase_category.airport",
+      "text": "Ich hätte gern einen Fensterplatz.",
+      "pronunciation": "/ɪç hˌɛtə ɡˈɛɾn ˌaɪnən fˈɛnstɜplˌats/",
+      "sortOrder": 11,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.airport.i_would_like_an_aisle_seat",
+      "categoryId": "phrase_category.airport",
+      "text": "Ich hätte gern einen Gangplatz.",
+      "pronunciation": "/ɪç hˌɛtə ɡˈɛɾn ˌaɪnən ɡˈaŋplats/",
+      "sortOrder": 12,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.airport.can_i_take_this_as_carry_on",
+      "categoryId": "phrase_category.airport",
+      "text": "Kann ich das als Handgepäck mitnehmen?",
+      "pronunciation": "/kˌan ɪç das als hˈantɡəpˌɛk mˈɪtnˌeːmən/",
+      "sortOrder": 13,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.airport.my_luggage_is_missing",
+      "categoryId": "phrase_category.airport",
+      "text": "Mein Gepäck fehlt.",
+      "pronunciation": "/maɪn ɡəpˈɛk fˈeːlt/",
+      "sortOrder": 14,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.airport.this_is_my_boarding_pass",
+      "categoryId": "phrase_category.airport",
+      "text": "Das ist meine Bordkarte.",
+      "pronunciation": "/das ɪst mˌaɪnə bˈɔɾtkaɾtə/",
+      "sortOrder": 15,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.airport.how_long_is_the_delay",
+      "categoryId": "phrase_category.airport",
+      "text": "Wie lange ist die Verspätung?",
+      "pronunciation": "/viː lˈaŋə ɪst diː fɛɾʃpˈɛːtʊŋ/",
+      "sortOrder": 16,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.airport.is_this_the_line_for_passport_control",
+      "categoryId": "phrase_category.airport",
+      "text": "Ist das die Schlange zur Passkontrolle?",
+      "pronunciation": "/ɪst das diː ʃlˈaŋə tsuːɾ pˈaskɔntɾˌɔlə/",
+      "sortOrder": 17,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.airport.i_have_nothing_to_declare",
+      "categoryId": "phrase_category.airport",
+      "text": "Ich habe nichts zu verzollen.",
+      "pronunciation": "/ɪç hɑːbə nˈɪçts tsuː fɛɾtsˈɔlən/",
+      "sortOrder": 18,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.airport.i_am_here_for_tourism",
+      "categoryId": "phrase_category.airport",
+      "text": "Ich bin hier als Tourist.",
+      "pronunciation": "/ɪç bɪn hˈiːɾ als tuːrˈɪst/",
+      "sortOrder": 19,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.airport.how_many_bags_can_i_check",
+      "categoryId": "phrase_category.airport",
+      "text": "Wie viele Koffer darf ich aufgeben?",
+      "pronunciation": "/viː fˈiːlə kˈɔfɜ dˈaɾf ɪç ˈaʊfɡˌeːbən/",
+      "sortOrder": 20,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.airport.is_the_flight_on_time",
+      "categoryId": "phrase_category.airport",
+      "text": "Ist der Flug pünktlich?",
+      "pronunciation": "/ɪst dɛɾ flˈuːk pˈʏŋktlɪç/",
+      "sortOrder": 21,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.airport.where_is_the_information_desk",
+      "categoryId": "phrase_category.airport",
+      "text": "Wo ist der Informationsschalter?",
+      "pronunciation": "/vˌoː ɪst dɛɾ ˈɪnfɔɾmatsjˌoːnsçaltɜ/",
+      "sortOrder": 22,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.airport.i_missed_my_flight",
+      "categoryId": "phrase_category.airport",
+      "text": "Ich habe meinen Flug verpasst.",
+      "pronunciation": "/ɪç hɑːbə mˌaɪnən flˈuːk fɛɾpˈast/",
+      "sortOrder": 23,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.airport.can_i_rebook_my_ticket",
+      "categoryId": "phrase_category.airport",
+      "text": "Kann ich mein Ticket umbuchen?",
+      "pronunciation": "/kˌan ɪç maɪn tˈɪkət ˈʊmbˌuːxən/",
+      "sortOrder": 24,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.airport.is_there_a_shuttle_to_the_city",
+      "categoryId": "phrase_category.airport",
+      "text": "Gibt es einen Shuttle in die Stadt?",
+      "pronunciation": "/ɡˈiːpt ɛs ˌaɪnən ʃˈʊtlə ɪn diː ʃtˈat/",
+      "sortOrder": 25,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.airport.has_the_gate_changed",
+      "categoryId": "phrase_category.airport",
+      "text": "Hat sich das Gate geändert?",
+      "pronunciation": "/hat zɪç das ɡˈɑːtə ɡəˈɛndɜt/",
+      "sortOrder": 26,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.airport.can_i_keep_my_bag_with_me",
+      "categoryId": "phrase_category.airport",
+      "text": "Kann ich meine Tasche bei mir behalten?",
+      "pronunciation": "/kˌan ɪç mˌaɪnə tˈaʃə baɪ miːɾ bəhˈaltən/",
+      "sortOrder": 27,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.airport.where_is_the_departure_board",
+      "categoryId": "phrase_category.airport",
+      "text": "Wo ist die Abflugtafel?",
+      "pronunciation": "/vˌoː ɪst diː ˈapflˌuːɡtafəl/",
+      "sortOrder": 28,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.airport.i_need_a_wheelchair",
+      "categoryId": "phrase_category.airport",
+      "text": "Ich brauche einen Rollstuhl.",
+      "pronunciation": "/ɪç bɾˈaʊxə ˌaɪnən rˈɔlʃtuːl/",
+      "sortOrder": 29,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.airport.what_time_does_the_flight_leave",
+      "categoryId": "phrase_category.airport",
+      "text": "Wann fliegt die Maschine?",
+      "pronunciation": "/vˈan flˈiːkt diː maʃˈiːnə/",
+      "sortOrder": 30,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.airport.i_need_assistance",
+      "categoryId": "phrase_category.airport",
+      "text": "Ich brauche Unterstützung.",
+      "pronunciation": "/ɪç bɾˈaʊxə ˌʊntɜʃtˈʏtsʊŋ/",
+      "sortOrder": 31,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.airport.do_i_need_to_take_my_laptop_out",
+      "categoryId": "phrase_category.airport",
+      "text": "Muss ich meinen Laptop rausnehmen?",
+      "pronunciation": "/mˈʊs ɪç mˌaɪnən lˈaptɒp rˈaʊsneːmən/",
+      "sortOrder": 32,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.airport.how_early_should_i_arrive",
+      "categoryId": "phrase_category.airport",
+      "text": "Wie früh sollte ich da sein?",
+      "pronunciation": "/viː frˈyː zˌɔltə ɪç dɑː zaɪn/",
+      "sortOrder": 33,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.airport.i_am_here_on_business",
+      "categoryId": "phrase_category.airport",
+      "text": "Ich bin geschäftlich hier.",
+      "pronunciation": "/ɪç bɪn ɡəʃˈɛftlɪç hˈiːɾ/",
+      "sortOrder": 34,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.airport.where_is_the_taxi_stand",
+      "categoryId": "phrase_category.airport",
+      "text": "Wo ist der Taxistand?",
+      "pronunciation": "/vˌoː ɪst dɛɾ tˈaksɪstˌɑːnt/",
+      "sortOrder": 35,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.transportation.one_ticket_please",
+      "categoryId": "phrase_category.transportation",
+      "text": "Eine Fahrkarte, bitte.",
+      "pronunciation": "/ˌaɪnə fˈɑːɾkaɾtə bˈɪtə/",
+      "sortOrder": 0,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.transportation.where_can_i_buy_a_ticket",
+      "categoryId": "phrase_category.transportation",
+      "text": "Wo kann ich eine Fahrkarte kaufen?",
+      "pronunciation": "/vˌoː kˌan ɪç ˌaɪnə fˈɑːɾkaɾtə kˈaʊfən/",
+      "sortOrder": 1,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.transportation.does_this_go_to_the_center",
+      "categoryId": "phrase_category.transportation",
+      "text": "Fährt das ins Zentrum?",
+      "pronunciation": "/fˈɛːɾt das ɪns tsˈɛntɾʊm/",
+      "sortOrder": 2,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.transportation.where_do_i_transfer",
+      "categoryId": "phrase_category.transportation",
+      "text": "Wo muss ich umsteigen?",
+      "pronunciation": "/vˌoː mˈʊs ɪç ˈʊmʃtˌaɪɡən/",
+      "sortOrder": 3,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.transportation.stop_here_please",
+      "categoryId": "phrase_category.transportation",
+      "text": "Hier anhalten, bitte.",
+      "pronunciation": "/hˈiːɾ ˈanhˌaltən bˈɪtə/",
+      "sortOrder": 4,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.transportation.how_long_does_it_take",
+      "categoryId": "phrase_category.transportation",
+      "text": "Wie lange dauert die Fahrt?",
+      "pronunciation": "/viː lˈaŋə dˈaʊɜt diː fˈɑːɾt/",
+      "sortOrder": 5,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.transportation.is_this_seat_free",
+      "categoryId": "phrase_category.transportation",
+      "text": "Ist dieser Sitzplatz frei?",
+      "pronunciation": "/ɪst dˌiːzɜ zˈɪtsplats frˈaɪ/",
+      "sortOrder": 6,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.transportation.which_platform_is_it",
+      "categoryId": "phrase_category.transportation",
+      "text": "Welcher Bahnsteig ist das?",
+      "pronunciation": "/vˈɛlçɜ bˈɑːnstaɪk ɪst das/",
+      "sortOrder": 7,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.transportation.a_taxi_please",
+      "categoryId": "phrase_category.transportation",
+      "text": "Ein Taxi, bitte.",
+      "pronunciation": "/aɪn tˈaksiː bˈɪtə/",
+      "sortOrder": 8,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.transportation.does_this_bus_go_to_the_station",
+      "categoryId": "phrase_category.transportation",
+      "text": "Fährt dieser Bus zum Bahnhof?",
+      "pronunciation": "/fˈɛːɾt dˌiːzɜ bˈʊs tsʊm bˈɑːnhoːf/",
+      "sortOrder": 9,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.transportation.where_is_the_bus_stop",
+      "categoryId": "phrase_category.transportation",
+      "text": "Wo ist die Bushaltestelle?",
+      "pronunciation": "/vˌoː ɪst diː bˈʊshaltˌɛʃtɛlə/",
+      "sortOrder": 10,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.transportation.i_need_to_get_off_here",
+      "categoryId": "phrase_category.transportation",
+      "text": "Ich muss hier aussteigen.",
+      "pronunciation": "/ɪç mˈʊs hˈiːɾ ˈaʊsʃtˌaɪɡən/",
+      "sortOrder": 11,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.transportation.is_this_the_right_train",
+      "categoryId": "phrase_category.transportation",
+      "text": "Ist das der richtige Zug?",
+      "pronunciation": "/ɪst das dɛɾ rˈɪçtɪɡə tsˈuːk/",
+      "sortOrder": 12,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.transportation.a_ticket_to_the_city_center_please",
+      "categoryId": "phrase_category.transportation",
+      "text": "Eine Fahrkarte ins Zentrum, bitte.",
+      "pronunciation": "/ˌaɪnə fˈɑːɾkaɾtə ɪns tsˈɛntɾʊm bˈɪtə/",
+      "sortOrder": 13,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.transportation.is_this_a_direct_train",
+      "categoryId": "phrase_category.transportation",
+      "text": "Ist das ein Direktzug?",
+      "pronunciation": "/ɪst das aɪn dˈiːrɛktsˌuːk/",
+      "sortOrder": 14,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.transportation.how_often_does_it_come",
+      "categoryId": "phrase_category.transportation",
+      "text": "Wie oft kommt er?",
+      "pronunciation": "/viː ˈɔft kˈɔmt ɛɾ/",
+      "sortOrder": 15,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.transportation.can_you_tell_me_when_to_get_off",
+      "categoryId": "phrase_category.transportation",
+      "text": "Können Sie mir sagen, wann ich aussteigen soll?",
+      "pronunciation": "/kˌœnən ziː miːɾ zˈɑːɡən vˈan ɪç ˈaʊsʃtˌaɪɡən zˌɔl/",
+      "sortOrder": 16,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.transportation.i_missed_my_stop",
+      "categoryId": "phrase_category.transportation",
+      "text": "Ich habe meine Haltestelle verpasst.",
+      "pronunciation": "/ɪç hɑːbə mˌaɪnə hˈaltɛʃtˌɛlə fɛɾpˈast/",
+      "sortOrder": 17,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.transportation.how_much_is_the_fare",
+      "categoryId": "phrase_category.transportation",
+      "text": "Was kostet die Fahrt?",
+      "pronunciation": "/vˈas kˈɔstət diː fˈɑːɾt/",
+      "sortOrder": 18,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.transportation.can_i_buy_a_ticket_on_the_bus",
+      "categoryId": "phrase_category.transportation",
+      "text": "Kann ich das Ticket im Bus kaufen?",
+      "pronunciation": "/kˌan ɪç das tˈɪkət ɪm bˈʊs kˈaʊfən/",
+      "sortOrder": 19,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.transportation.is_this_seat_reserved",
+      "categoryId": "phrase_category.transportation",
+      "text": "Ist dieser Platz reserviert?",
+      "pronunciation": "/ɪst dˌiːzɜ plˈats rˌeːzɛɾvˈiːɾt/",
+      "sortOrder": 20,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.transportation.does_this_train_stop_here",
+      "categoryId": "phrase_category.transportation",
+      "text": "Hält dieser Zug hier?",
+      "pronunciation": "/hˈɛlt dˌiːzɜ tsˈuːk hˈiːɾ/",
+      "sortOrder": 21,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.transportation.take_me_to_this_address",
+      "categoryId": "phrase_category.transportation",
+      "text": "Fahren Sie mich zu dieser Adresse.",
+      "pronunciation": "/fˈɑːrən ziː mɪç tsuː dˌiːzɜ adɾˈɛsə/",
+      "sortOrder": 22,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.transportation.could_you_wait_here",
+      "categoryId": "phrase_category.transportation",
+      "text": "Könnten Sie hier warten?",
+      "pronunciation": "/kˈœntən ziː hˈiːɾ vˈaɾtən/",
+      "sortOrder": 23,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.transportation.is_there_a_subway_nearby",
+      "categoryId": "phrase_category.transportation",
+      "text": "Gibt es in der Nähe eine U-Bahn?",
+      "pronunciation": "/ɡˈiːpt ɛs ɪn dɛɾ nˈɛːə ˌaɪnə ˈuːbˈɑːn/",
+      "sortOrder": 24,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.transportation.which_line_should_i_take",
+      "categoryId": "phrase_category.transportation",
+      "text": "Welche Linie soll ich nehmen?",
+      "pronunciation": "/vˈɛlçə lˈiːnɪə zˌɔl ɪç nˈeːmən/",
+      "sortOrder": 25,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.transportation.i_want_to_go_to_the_airport",
+      "categoryId": "phrase_category.transportation",
+      "text": "Ich möchte zum Flughafen.",
+      "pronunciation": "/ɪç mˈœçtə tsʊm flˈuːɡhɑːfən/",
+      "sortOrder": 26,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.transportation.do_i_need_to_transfer",
+      "categoryId": "phrase_category.transportation",
+      "text": "Muss ich umsteigen?",
+      "pronunciation": "/mˈʊs ɪç ˈʊmʃtˌaɪɡən/",
+      "sortOrder": 27,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.transportation.this_is_my_stop",
+      "categoryId": "phrase_category.transportation",
+      "text": "Das ist meine Haltestelle.",
+      "pronunciation": "/das ɪst mˌaɪnə hˈaltɛʃtˌɛlə/",
+      "sortOrder": 28,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.transportation.keep_the_change",
+      "categoryId": "phrase_category.transportation",
+      "text": "Behalten Sie das Wechselgeld.",
+      "pronunciation": "/bəhˈaltən ziː das vˈɛksəlɡˌɛlt/",
+      "sortOrder": 29,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.transportation.please_slow_down",
+      "categoryId": "phrase_category.transportation",
+      "text": "Bitte langsamer.",
+      "pronunciation": "/bˈɪtə lˈaŋzɑːmɜ/",
+      "sortOrder": 30,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.transportation.is_there_a_night_bus",
+      "categoryId": "phrase_category.transportation",
+      "text": "Gibt es einen Nachtbus?",
+      "pronunciation": "/ɡˈiːpt ɛs ˌaɪnən nˈaxtbʊs/",
+      "sortOrder": 31,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.transportation.how_do_i_get_to_the_station_by_bus",
+      "categoryId": "phrase_category.transportation",
+      "text": "Wie komme ich mit dem Bus zum Bahnhof?",
+      "pronunciation": "/viː kˈɔmə ɪç mɪt deːm bˈʊs tsʊm bˈɑːnhoːf/",
+      "sortOrder": 32,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.transportation.let_me_off_at_the_next_light",
+      "categoryId": "phrase_category.transportation",
+      "text": "Lassen Sie mich an der nächsten Ampel raus.",
+      "pronunciation": "/lˈasən ziː mɪç an dɛɾ nˈɛçstən ˈampəl rˈaʊs/",
+      "sortOrder": 33,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.transportation.is_there_a_delay",
+      "categoryId": "phrase_category.transportation",
+      "text": "Gibt es eine Verspätung?",
+      "pronunciation": "/ɡˈiːpt ɛs ˌaɪnə fɛɾʃpˈɛːtʊŋ/",
+      "sortOrder": 34,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.transportation.i_need_a_monthly_pass",
+      "categoryId": "phrase_category.transportation",
+      "text": "Ich brauche eine Monatskarte.",
+      "pronunciation": "/ɪç bɾˈaʊxə ˌaɪnə mˈoːnatskˌaɾtə/",
+      "sortOrder": 35,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.directions.where_is_the_station",
+      "categoryId": "phrase_category.directions",
+      "text": "Wo ist der Bahnhof?",
+      "pronunciation": "/vˌoː ɪst dɛɾ bˈɑːnhoːf/",
+      "sortOrder": 0,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.directions.turn_left",
+      "categoryId": "phrase_category.directions",
+      "text": "Links abbiegen.",
+      "pronunciation": "/lˈɪŋks ˈapbˌiːɡən/",
+      "sortOrder": 1,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.directions.turn_right",
+      "categoryId": "phrase_category.directions",
+      "text": "Rechts abbiegen.",
+      "pronunciation": "/rˈɛçts ˈapbˌiːɡən/",
+      "sortOrder": 2,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.directions.go_straight",
+      "categoryId": "phrase_category.directions",
+      "text": "Geradeaus gehen.",
+      "pronunciation": "/ɡərˈɑdeːˌaʊs ɡˈeːən/",
+      "sortOrder": 3,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.directions.it_is_nearby",
+      "categoryId": "phrase_category.directions",
+      "text": "Es ist in der Nähe.",
+      "pronunciation": "/ɛsɪst ɪn dɛɾ nˈɛːə/",
+      "sortOrder": 4,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.directions.it_is_far_from_here",
+      "categoryId": "phrase_category.directions",
+      "text": "Es ist weit von hier.",
+      "pronunciation": "/ɛsɪst vˈaɪt fɔn hˈiːɾ/",
+      "sortOrder": 5,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.directions.it_is_on_the_left",
+      "categoryId": "phrase_category.directions",
+      "text": "Es ist links.",
+      "pronunciation": "/ɛsɪst lˈɪŋks/",
+      "sortOrder": 6,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.directions.how_do_i_get_there",
+      "categoryId": "phrase_category.directions",
+      "text": "Wie komme ich dorthin?",
+      "pronunciation": "/viː kˈɔmə ɪç dˈɔɾthˌɪn/",
+      "sortOrder": 7,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.directions.is_it_far",
+      "categoryId": "phrase_category.directions",
+      "text": "Ist es weit?",
+      "pronunciation": "/ɪst ɛs vˈaɪt/",
+      "sortOrder": 8,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.directions.is_it_walking_distance",
+      "categoryId": "phrase_category.directions",
+      "text": "Ist das zu Fuß erreichbar?",
+      "pronunciation": "/ɪst das tsuː fˈuːs ɛɾrˈaɪçbɑːɾ/",
+      "sortOrder": 9,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.directions.go_past_the_traffic_light",
+      "categoryId": "phrase_category.directions",
+      "text": "Gehen Sie an der Ampel vorbei.",
+      "pronunciation": "/ɡˈeːən ziː an dɛɾ ˈampəl foːɾbˈaɪ/",
+      "sortOrder": 10,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.directions.take_the_first_street_on_the_left",
+      "categoryId": "phrase_category.directions",
+      "text": "Nehmen Sie die erste Straße links.",
+      "pronunciation": "/nˈeːmən ziː diː ˈeːɾstə ʃtɾˈɑːsə lˈɪŋks/",
+      "sortOrder": 11,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.directions.take_the_second_street_on_the_right",
+      "categoryId": "phrase_category.directions",
+      "text": "Nehmen Sie die zweite Straße rechts.",
+      "pronunciation": "/nˈeːmən ziː diː tsvˈaɪtə ʃtɾˈɑːsə rˈɛçts/",
+      "sortOrder": 12,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.directions.its_across_the_street",
+      "categoryId": "phrase_category.directions",
+      "text": "Es ist gegenüber.",
+      "pronunciation": "/ɛsɪst ɡˌeːɡənˈyːbɜ/",
+      "sortOrder": 13,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.directions.its_next_to_the_bank",
+      "categoryId": "phrase_category.directions",
+      "text": "Es ist neben der Bank.",
+      "pronunciation": "/ɛsɪst nˌeːbən dɛɾ bˈaŋk/",
+      "sortOrder": 14,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.directions.its_behind_the_hotel",
+      "categoryId": "phrase_category.directions",
+      "text": "Es ist hinter dem Hotel.",
+      "pronunciation": "/ɛsɪst hˈɪntɜ deːm hˈoːtəl/",
+      "sortOrder": 15,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.directions.its_in_front_of_the_park",
+      "categoryId": "phrase_category.directions",
+      "text": "Es ist vor dem Park.",
+      "pronunciation": "/ɛsɪst fˌɔɾ deːm pˈaɾk/",
+      "sortOrder": 16,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.directions.can_you_show_me_on_the_map",
+      "categoryId": "phrase_category.directions",
+      "text": "Können Sie es mir auf der Karte zeigen?",
+      "pronunciation": "/kˌœnən ziː ɛs miːɾ aʊf dɛɾ kˈaɾtə tsˈaɪɡən/",
+      "sortOrder": 17,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.directions.i_am_looking_for_the_museum",
+      "categoryId": "phrase_category.directions",
+      "text": "Ich suche das Museum.",
+      "pronunciation": "/ɪç zˈuːxə das muːzˈeːʊm/",
+      "sortOrder": 18,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.directions.how_do_i_get_to_the_city_center",
+      "categoryId": "phrase_category.directions",
+      "text": "Wie komme ich ins Zentrum?",
+      "pronunciation": "/viː kˈɔmə ɪç ɪns tsˈɛntɾʊm/",
+      "sortOrder": 19,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.directions.which_way_is_it",
+      "categoryId": "phrase_category.directions",
+      "text": "In welche Richtung?",
+      "pronunciation": "/ɪn vˈɛlçə rˈɪçtʊŋ/",
+      "sortOrder": 20,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.directions.am_i_going_the_right_way",
+      "categoryId": "phrase_category.directions",
+      "text": "Bin ich auf dem richtigen Weg?",
+      "pronunciation": "/bɪn ɪç aʊf deːm rˈɪçtɪɡən vˈeːk/",
+      "sortOrder": 21,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.directions.its_around_the_corner",
+      "categoryId": "phrase_category.directions",
+      "text": "Es ist gleich um die Ecke.",
+      "pronunciation": "/ɛsɪst ɡlˈaɪç ʊm diː ˈɛkə/",
+      "sortOrder": 22,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.directions.go_up_the_stairs",
+      "categoryId": "phrase_category.directions",
+      "text": "Gehen Sie die Treppe hoch.",
+      "pronunciation": "/ɡˈeːən ziː diː tɾˈɛpə hˈoːx/",
+      "sortOrder": 23,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.directions.go_down_the_stairs",
+      "categoryId": "phrase_category.directions",
+      "text": "Gehen Sie die Treppe runter.",
+      "pronunciation": "/ɡˈeːən ziː diː tɾˈɛpə rˈʊntɜ/",
+      "sortOrder": 24,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.directions.its_on_the_second_floor",
+      "categoryId": "phrase_category.directions",
+      "text": "Es ist im zweiten Stock.",
+      "pronunciation": "/ɛsɪst ɪm tsvˈaɪtən ʃtˈɔk/",
+      "sortOrder": 25,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.directions.you_cant_miss_it",
+      "categoryId": "phrase_category.directions",
+      "text": "Sie können es nicht verfehlen.",
+      "pronunciation": "/ziː kˌœnən ɛs nˈɪçt fɛɾfˈeːlən/",
+      "sortOrder": 26,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.directions.follow_this_road",
+      "categoryId": "phrase_category.directions",
+      "text": "Folgen Sie dieser Straße.",
+      "pronunciation": "/fˈɔlɡən ziː dˌiːzɜ ʃtɾˈɑːsə/",
+      "sortOrder": 27,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.directions.cross_the_street_here",
+      "categoryId": "phrase_category.directions",
+      "text": "Überqueren Sie hier die Straße.",
+      "pronunciation": "/ˌyːbɜkvˈeːrən ziː hˈiːɾ diː ʃtɾˈɑːsə/",
+      "sortOrder": 28,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.directions.its_five_minutes_away",
+      "categoryId": "phrase_category.directions",
+      "text": "Es ist fünf Minuten entfernt.",
+      "pronunciation": "/ɛsɪst fˈʏnf miːnˈuːtən ɛntfˈɛɾnt/",
+      "sortOrder": 29,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.directions.its_a_ten_minute_walk",
+      "categoryId": "phrase_category.directions",
+      "text": "Es ist zehn Minuten zu Fuß.",
+      "pronunciation": "/ɛsɪst tsˈeːn miːnˈuːtən tsuː fˈuːs/",
+      "sortOrder": 30,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.directions.could_you_point_me_in_the_right_direction",
+      "categoryId": "phrase_category.directions",
+      "text": "Könnten Sie mir den Weg weisen?",
+      "pronunciation": "/kˈœntən ziː miːɾ deːn vˈeːk vˈaɪzən/",
+      "sortOrder": 31,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.directions.how_long_does_it_take_on_foot",
+      "categoryId": "phrase_category.directions",
+      "text": "Wie lange dauert es zu Fuß?",
+      "pronunciation": "/viː lˈaŋə dˈaʊɜt ɛs tsuː fˈuːs/",
+      "sortOrder": 32,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.directions.is_this_the_way_to_the_hotel",
+      "categoryId": "phrase_category.directions",
+      "text": "Ist das der Weg zum Hotel?",
+      "pronunciation": "/ɪst das dɛɾ vˈeːk tsʊm hˈoːtəl/",
+      "sortOrder": 33,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.directions.it_is_on_the_right",
+      "categoryId": "phrase_category.directions",
+      "text": "Es ist rechts.",
+      "pronunciation": "/ɛsɪst rˈɛçts/",
+      "sortOrder": 34,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.directions.go_back_that_way",
+      "categoryId": "phrase_category.directions",
+      "text": "Gehen Sie dort zurück.",
+      "pronunciation": "/ɡˈeːən ziː dˈɔɾt tsuːrˈʏk/",
+      "sortOrder": 35,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.doctor.i_need_a_doctor",
+      "categoryId": "phrase_category.doctor",
+      "text": "Ich brauche einen Arzt.",
+      "pronunciation": "/ɪç bɾˈaʊxə ˌaɪnən ˈaɾtst/",
+      "sortOrder": 0,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.doctor.i_dont_feel_well",
+      "categoryId": "phrase_category.doctor",
+      "text": "Mir ist nicht gut.",
+      "pronunciation": "/miːɾ ɪst nˈɪçt ɡˈuːt/",
+      "sortOrder": 1,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.doctor.it_hurts_here",
+      "categoryId": "phrase_category.doctor",
+      "text": "Es tut hier weh.",
+      "pronunciation": "/ɛs tˈuːt hˈiːɾ vˈeː/",
+      "sortOrder": 2,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.doctor.i_have_a_fever",
+      "categoryId": "phrase_category.doctor",
+      "text": "Ich habe Fieber.",
+      "pronunciation": "/ɪç hɑːbə fˈiːbɜ/",
+      "sortOrder": 3,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.doctor.i_am_allergic_to_this",
+      "categoryId": "phrase_category.doctor",
+      "text": "Ich bin dagegen allergisch.",
+      "pronunciation": "/ɪç bɪn daɡˈeːɡən ˈalɜɡˌɪʃ/",
+      "sortOrder": 4,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.doctor.i_need_a_prescription",
+      "categoryId": "phrase_category.doctor",
+      "text": "Ich brauche ein Rezept.",
+      "pronunciation": "/ɪç bɾˈaʊxə aɪn reːtsˈɛpt/",
+      "sortOrder": 5,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.doctor.can_i_make_an_appointment",
+      "categoryId": "phrase_category.doctor",
+      "text": "Kann ich einen Termin machen?",
+      "pronunciation": "/kˌan ɪç ˌaɪnən tɛɾmˈiːn mˈaxən/",
+      "sortOrder": 6,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.doctor.i_have_a_headache",
+      "categoryId": "phrase_category.doctor",
+      "text": "Ich habe Kopfschmerzen.",
+      "pronunciation": "/ɪç hɑːbə kˈɔpfʃmɜtsən/",
+      "sortOrder": 7,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.doctor.i_have_a_stomachache",
+      "categoryId": "phrase_category.doctor",
+      "text": "Ich habe Bauchschmerzen.",
+      "pronunciation": "/ɪç hɑːbə bˈaʊxʃmɜtsən/",
+      "sortOrder": 8,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.doctor.i_have_a_sore_throat",
+      "categoryId": "phrase_category.doctor",
+      "text": "Ich habe Halsschmerzen.",
+      "pronunciation": "/ɪç hɑːbə hˈalsçmɜtsən/",
+      "sortOrder": 9,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.doctor.i_feel_dizzy",
+      "categoryId": "phrase_category.doctor",
+      "text": "Mir ist schwindelig.",
+      "pronunciation": "/miːɾ ɪst ʃvˈɪndəlˌɪç/",
+      "sortOrder": 10,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.doctor.i_feel_sick",
+      "categoryId": "phrase_category.doctor",
+      "text": "Mir ist übel.",
+      "pronunciation": "/miːɾ ɪst ˈyːbəl/",
+      "sortOrder": 11,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.doctor.i_cant_sleep",
+      "categoryId": "phrase_category.doctor",
+      "text": "Ich kann nicht schlafen.",
+      "pronunciation": "/ɪç kˌan nˈɪçt ʃlˈɑːfən/",
+      "sortOrder": 12,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.doctor.i_have_a_cough",
+      "categoryId": "phrase_category.doctor",
+      "text": "Ich habe Husten.",
+      "pronunciation": "/ɪç hɑːbə hˈuːstən/",
+      "sortOrder": 13,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.doctor.i_have_a_cold",
+      "categoryId": "phrase_category.doctor",
+      "text": "Ich bin erkältet.",
+      "pronunciation": "/ɪç bɪn ɛɾkˈɛltət/",
+      "sortOrder": 14,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.doctor.i_have_the_flu",
+      "categoryId": "phrase_category.doctor",
+      "text": "Ich habe die Grippe.",
+      "pronunciation": "/ɪç hɑːbə diː ɡɾˈɪpə/",
+      "sortOrder": 15,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.doctor.it_hurts_when_i_breathe",
+      "categoryId": "phrase_category.doctor",
+      "text": "Es tut weh beim Atmen.",
+      "pronunciation": "/ɛs tˈuːt vˈeː baɪm ˈatmən/",
+      "sortOrder": 16,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.doctor.i_hurt_my_back",
+      "categoryId": "phrase_category.doctor",
+      "text": "Ich habe mir den Rücken verletzt.",
+      "pronunciation": "/ɪç hɑːbə miːɾ deːn rˈʏkən fɛɾlˈɛtst/",
+      "sortOrder": 17,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.doctor.i_hurt_my_ankle",
+      "categoryId": "phrase_category.doctor",
+      "text": "Ich habe mir den Knöchel verletzt.",
+      "pronunciation": "/ɪç hɑːbə miːɾ deːn knˈœçəl fɛɾlˈɛtst/",
+      "sortOrder": 18,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.doctor.i_think_i_broke_my_arm",
+      "categoryId": "phrase_category.doctor",
+      "text": "Ich glaube, ich habe mir den Arm gebrochen.",
+      "pronunciation": "/ɪç ɡlˈaʊbə ɪç hɑːbə miːɾ deːn ˈaɾm ɡəbɾˈɔxən/",
+      "sortOrder": 19,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.doctor.i_need_to_see_a_dentist",
+      "categoryId": "phrase_category.doctor",
+      "text": "Ich muss zum Zahnarzt.",
+      "pronunciation": "/ɪç mˈʊs tsʊm tsˈɑːnaɾtst/",
+      "sortOrder": 20,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.doctor.i_have_a_toothache",
+      "categoryId": "phrase_category.doctor",
+      "text": "Ich habe Zahnschmerzen.",
+      "pronunciation": "/ɪç hɑːbə tsˈɑːnʃmɜtsən/",
+      "sortOrder": 21,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.doctor.how_long_will_it_take_to_get_better",
+      "categoryId": "phrase_category.doctor",
+      "text": "Wie lange dauert es, bis es besser wird?",
+      "pronunciation": "/viː lˈaŋə dˈaʊɜt ɛs bɪs ɛs bˈɛsɜ vˌɪɾt/",
+      "sortOrder": 22,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.doctor.what_should_i_take_for_this",
+      "categoryId": "phrase_category.doctor",
+      "text": "Was soll ich dagegen nehmen?",
+      "pronunciation": "/vˈas zˌɔl ɪç daɡˈeːɡən nˈeːmən/",
+      "sortOrder": 23,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.doctor.i_take_this_medicine_every_day",
+      "categoryId": "phrase_category.doctor",
+      "text": "Ich nehme dieses Medikament jeden Tag.",
+      "pronunciation": "/ɪç nˈeːmə dˌiːzəs mˌeːdiːkamˈɛnt jˈeːdən tˈɑːk/",
+      "sortOrder": 24,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.doctor.i_dont_have_any_allergies",
+      "categoryId": "phrase_category.doctor",
+      "text": "Ich habe keine Allergien.",
+      "pronunciation": "/ɪç hɑːbə kˈaɪnə ˈalɜɡˌiːn/",
+      "sortOrder": 25,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.doctor.i_feel_better_today",
+      "categoryId": "phrase_category.doctor",
+      "text": "Heute geht es mir besser.",
+      "pronunciation": "/hˈɔøtə ɡˈeːt ɛs miːɾ bˈɛsɜ/",
+      "sortOrder": 26,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.doctor.i_feel_worse_today",
+      "categoryId": "phrase_category.doctor",
+      "text": "Heute geht es mir schlechter.",
+      "pronunciation": "/hˈɔøtə ɡˈeːt ɛs miːɾ ʃlˈɛçtɜ/",
+      "sortOrder": 27,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.doctor.can_i_have_a_sick_note",
+      "categoryId": "phrase_category.doctor",
+      "text": "Kann ich eine Krankschreibung haben?",
+      "pronunciation": "/kˌan ɪç ˌaɪnə kɾˈaŋkʃrˌaɪbʊŋ hˈɑːbən/",
+      "sortOrder": 28,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.doctor.when_should_i_come_back",
+      "categoryId": "phrase_category.doctor",
+      "text": "Wann soll ich wiederkommen?",
+      "pronunciation": "/vˈan zˌɔl ɪç viːdɜkˈɔmən/",
+      "sortOrder": 29,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.doctor.is_it_serious",
+      "categoryId": "phrase_category.doctor",
+      "text": "Ist es ernst?",
+      "pronunciation": "/ɪst ɛs ˈɛɾnst/",
+      "sortOrder": 30,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.doctor.i_need_an_x_ray",
+      "categoryId": "phrase_category.doctor",
+      "text": "Ich brauche ein Röntgenbild.",
+      "pronunciation": "/ɪç bɾˈaʊxə aɪn rˈœntɡənbˌɪlt/",
+      "sortOrder": 31,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.doctor.i_feel_weak",
+      "categoryId": "phrase_category.doctor",
+      "text": "Ich fühle mich schwach.",
+      "pronunciation": "/ɪç fˈyːlə mɪç ʃvˈax/",
+      "sortOrder": 32,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.doctor.i_have_been_like_this_for_two_days",
+      "categoryId": "phrase_category.doctor",
+      "text": "So geht es mir seit zwei Tagen.",
+      "pronunciation": "/zoː ɡˈeːt ɛs miːɾ zaɪt tsvˈaɪ tˈɑːɡən/",
+      "sortOrder": 33,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.doctor.please_examine_me",
+      "categoryId": "phrase_category.doctor",
+      "text": "Bitte untersuchen Sie mich.",
+      "pronunciation": "/bˈɪtə ˌʊntɜzˈuːxən ziː mɪç/",
+      "sortOrder": 34,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.doctor.i_have_high_blood_pressure",
+      "categoryId": "phrase_category.doctor",
+      "text": "Ich habe hohen Blutdruck.",
+      "pronunciation": "/ɪç hɑːbə hˈoːən blˈʊtdɾʊk/",
+      "sortOrder": 35,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.pharmacy.i_need_this_medicine",
+      "categoryId": "phrase_category.pharmacy",
+      "text": "Ich brauche dieses Medikament.",
+      "pronunciation": "/ɪç bɾˈaʊxə dˌiːzəs mˌeːdiːkamˈɛnt/",
+      "sortOrder": 0,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.pharmacy.do_you_have_painkillers",
+      "categoryId": "phrase_category.pharmacy",
+      "text": "Haben Sie Schmerzmittel?",
+      "pronunciation": "/hˌɑːbən ziː ʃmˈɛɾtsmɪtəl/",
+      "sortOrder": 1,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.pharmacy.how_often_should_i_take_this",
+      "categoryId": "phrase_category.pharmacy",
+      "text": "Wie oft soll ich das nehmen?",
+      "pronunciation": "/viː ˈɔft zˌɔl ɪç das nˈeːmən/",
+      "sortOrder": 2,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.pharmacy.i_have_a_prescription",
+      "categoryId": "phrase_category.pharmacy",
+      "text": "Ich habe ein Rezept.",
+      "pronunciation": "/ɪç hɑːbə aɪn reːtsˈɛpt/",
+      "sortOrder": 3,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.pharmacy.something_for_a_cold_please",
+      "categoryId": "phrase_category.pharmacy",
+      "text": "Etwas gegen Erkältung, bitte.",
+      "pronunciation": "/ˈɛtvɑːs ɡˌeːɡən ɛɾkˈɛltʊŋ bˈɪtə/",
+      "sortOrder": 4,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.pharmacy.i_need_a_face_mask",
+      "categoryId": "phrase_category.pharmacy",
+      "text": "Ich brauche eine Maske.",
+      "pronunciation": "/ɪç bɾˈaʊxə ˌaɪnə mˈaskə/",
+      "sortOrder": 5,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.pharmacy.can_i_buy_this_without_a_prescription",
+      "categoryId": "phrase_category.pharmacy",
+      "text": "Kann ich das ohne Rezept kaufen?",
+      "pronunciation": "/kˌan ɪç das ˈoːnə reːtsˈɛpt kˈaʊfən/",
+      "sortOrder": 6,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.pharmacy.i_need_bandages",
+      "categoryId": "phrase_category.pharmacy",
+      "text": "Ich brauche Verbände.",
+      "pronunciation": "/ɪç bɾˈaʊxə fɛɾbˈɛndə/",
+      "sortOrder": 7,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.pharmacy.i_need_something_for_a_headache",
+      "categoryId": "phrase_category.pharmacy",
+      "text": "Ich brauche etwas gegen Kopfschmerzen.",
+      "pronunciation": "/ɪç bɾˈaʊxə ˈɛtvɑːs ɡˌeːɡən kˈɔpfʃmɜtsən/",
+      "sortOrder": 8,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.pharmacy.i_need_something_for_a_cough",
+      "categoryId": "phrase_category.pharmacy",
+      "text": "Ich brauche etwas gegen Husten.",
+      "pronunciation": "/ɪç bɾˈaʊxə ˈɛtvɑːs ɡˌeːɡən hˈuːstən/",
+      "sortOrder": 9,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.pharmacy.i_need_something_for_a_fever",
+      "categoryId": "phrase_category.pharmacy",
+      "text": "Ich brauche etwas gegen Fieber.",
+      "pronunciation": "/ɪç bɾˈaʊxə ˈɛtvɑːs ɡˌeːɡən fˈiːbɜ/",
+      "sortOrder": 10,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.pharmacy.is_this_for_adults",
+      "categoryId": "phrase_category.pharmacy",
+      "text": "Ist das für Erwachsene?",
+      "pronunciation": "/ɪst das fyːɾ ɛɾvˈaxzənə/",
+      "sortOrder": 11,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.pharmacy.how_many_times_a_day",
+      "categoryId": "phrase_category.pharmacy",
+      "text": "Wie oft am Tag?",
+      "pronunciation": "/viː ˈɔft am tˈɑːk/",
+      "sortOrder": 12,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.pharmacy.before_meals_or_after_meals",
+      "categoryId": "phrase_category.pharmacy",
+      "text": "Vor oder nach dem Essen?",
+      "pronunciation": "/fˌɔɾ ˌoːdɜ nɑːx deːm ˈɛsən/",
+      "sortOrder": 13,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.pharmacy.are_there_any_side_effects",
+      "categoryId": "phrase_category.pharmacy",
+      "text": "Gibt es Nebenwirkungen?",
+      "pronunciation": "/ɡˈiːpt ɛs nˈeːbənvˌɪɾkʊŋən/",
+      "sortOrder": 14,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.pharmacy.i_am_looking_for_allergy_medicine",
+      "categoryId": "phrase_category.pharmacy",
+      "text": "Ich suche Allergiemedizin.",
+      "pronunciation": "/ɪç zˈuːxə ˈalɜɡˌiːmeːdiːtsˌiːn/",
+      "sortOrder": 15,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.pharmacy.do_you_have_vitamins",
+      "categoryId": "phrase_category.pharmacy",
+      "text": "Haben Sie Vitamine?",
+      "pronunciation": "/hˌɑːbən ziː vˌiːtamˈiːnə/",
+      "sortOrder": 16,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.pharmacy.i_need_a_thermometer",
+      "categoryId": "phrase_category.pharmacy",
+      "text": "Ich brauche ein Thermometer.",
+      "pronunciation": "/ɪç bɾˈaʊxə aɪn tˌɛɾmoːmˈeːtɜ/",
+      "sortOrder": 17,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.pharmacy.i_need_cough_syrup",
+      "categoryId": "phrase_category.pharmacy",
+      "text": "Ich brauche Hustensaft.",
+      "pronunciation": "/ɪç bɾˈaʊxə hˈʊstənzˌaft/",
+      "sortOrder": 18,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.pharmacy.i_need_eye_drops",
+      "categoryId": "phrase_category.pharmacy",
+      "text": "Ich brauche Augentropfen.",
+      "pronunciation": "/ɪç bɾˈaʊxə ˈaʊɡəntɾˌɔpfən/",
+      "sortOrder": 19,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.pharmacy.i_need_antiseptic_cream",
+      "categoryId": "phrase_category.pharmacy",
+      "text": "Ich brauche antiseptische Creme.",
+      "pronunciation": "/ɪç bɾˈaʊxə ˌantiːzˈɛptɪʃə kɾˈeːmə/",
+      "sortOrder": 20,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.pharmacy.do_you_have_childrens_medicine",
+      "categoryId": "phrase_category.pharmacy",
+      "text": "Haben Sie Kindermedizin?",
+      "pronunciation": "/hˌɑːbən ziː kˌɪndɜmˌeːdiːtsˈiːn/",
+      "sortOrder": 21,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.pharmacy.i_need_throat_lozenges",
+      "categoryId": "phrase_category.pharmacy",
+      "text": "Ich brauche Halstabletten.",
+      "pronunciation": "/ɪç bɾˈaʊxə hˌalstablˈɛtən/",
+      "sortOrder": 22,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.pharmacy.should_i_take_this_with_water",
+      "categoryId": "phrase_category.pharmacy",
+      "text": "Soll ich das mit Wasser nehmen?",
+      "pronunciation": "/zˌɔl ɪç das mɪt vˈasɜ nˈeːmən/",
+      "sortOrder": 23,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.pharmacy.i_need_a_repeat_prescription",
+      "categoryId": "phrase_category.pharmacy",
+      "text": "Ich brauche ein Folgerezept.",
+      "pronunciation": "/ɪç bɾˈaʊxə aɪn fˌɔlɡeːreːtsˈɛpt/",
+      "sortOrder": 24,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.pharmacy.is_this_in_stock",
+      "categoryId": "phrase_category.pharmacy",
+      "text": "Haben Sie das vorrätig?",
+      "pronunciation": "/hˌɑːbən ziː das fˈoːɾrˌɛːtɪç/",
+      "sortOrder": 25,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.pharmacy.i_need_sunscreen",
+      "categoryId": "phrase_category.pharmacy",
+      "text": "Ich brauche Sonnencreme.",
+      "pronunciation": "/ɪç bɾˈaʊxə zˌɔnənkɾˈeːmə/",
+      "sortOrder": 26,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.pharmacy.i_need_something_for_mosquito_bites",
+      "categoryId": "phrase_category.pharmacy",
+      "text": "Ich brauche etwas gegen Mückenstiche.",
+      "pronunciation": "/ɪç bɾˈaʊxə ˈɛtvɑːs ɡˌeːɡən mʏkˈn̩ʃtˈɪçə/",
+      "sortOrder": 27,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.pharmacy.can_i_get_this_today",
+      "categoryId": "phrase_category.pharmacy",
+      "text": "Kann ich das heute bekommen?",
+      "pronunciation": "/kˌan ɪç das hˈɔøtə bəkˈɔmən/",
+      "sortOrder": 28,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.pharmacy.how_much_is_this_medicine",
+      "categoryId": "phrase_category.pharmacy",
+      "text": "Was kostet dieses Medikament?",
+      "pronunciation": "/vˈas kˈɔstət dˌiːzəs mˌeːdiːkamˈɛnt/",
+      "sortOrder": 29,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.pharmacy.please_explain_how_to_use_this",
+      "categoryId": "phrase_category.pharmacy",
+      "text": "Bitte erklären Sie, wie man das benutzt.",
+      "pronunciation": "/bˈɪtə ɛɾklˈɛːrən ziː viː man das bənˈʊtst/",
+      "sortOrder": 30,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.pharmacy.i_need_a_plaster",
+      "categoryId": "phrase_category.pharmacy",
+      "text": "Ich brauche ein Pflaster.",
+      "pronunciation": "/ɪç bɾˈaʊxə aɪn pflˈastɜ/",
+      "sortOrder": 31,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.pharmacy.is_this_safe_in_pregnancy",
+      "categoryId": "phrase_category.pharmacy",
+      "text": "Ist das in der Schwangerschaft unbedenklich?",
+      "pronunciation": "/ɪst das ɪn dɛɾ ʃvˈaŋɜʃˌaft ˈʊnbədˌɛŋklɪç/",
+      "sortOrder": 32,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.pharmacy.i_need_this_in_a_smaller_pack",
+      "categoryId": "phrase_category.pharmacy",
+      "text": "Ich brauche das in einer kleineren Packung.",
+      "pronunciation": "/ɪç bɾˈaʊxə das ɪn ˌaɪnɜ klˈaɪnərən pˈakʊŋ/",
+      "sortOrder": 33,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.pharmacy.do_you_take_insurance",
+      "categoryId": "phrase_category.pharmacy",
+      "text": "Nehmen Sie die Versicherung?",
+      "pronunciation": "/nˈeːmən ziː diː fɛɾzˈɪçərˌʊŋ/",
+      "sortOrder": 34,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.pharmacy.does_this_cause_drowsiness",
+      "categoryId": "phrase_category.pharmacy",
+      "text": "Macht das müde?",
+      "pronunciation": "/mˈaxt das mˈyːdə/",
+      "sortOrder": 35,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.emergency.please_help_me",
+      "categoryId": "phrase_category.emergency",
+      "text": "Bitte helfen Sie mir.",
+      "pronunciation": "/bˈɪtə hˈɛlfən ziː mˈiːɾ/",
+      "sortOrder": 0,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.emergency.call_the_police",
+      "categoryId": "phrase_category.emergency",
+      "text": "Rufen Sie die Polizei.",
+      "pronunciation": "/rˈuːfən ziː diː pˌoːliːtsˈaɪ/",
+      "sortOrder": 1,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.emergency.call_an_ambulance",
+      "categoryId": "phrase_category.emergency",
+      "text": "Rufen Sie einen Krankenwagen.",
+      "pronunciation": "/rˈuːfən ziː ˌaɪnən kɾˈankənvˌɑːɡən/",
+      "sortOrder": 2,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.emergency.there_is_a_fire",
+      "categoryId": "phrase_category.emergency",
+      "text": "Es brennt.",
+      "pronunciation": "/ɛs bɾˈɛnt/",
+      "sortOrder": 3,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.emergency.i_am_lost",
+      "categoryId": "phrase_category.emergency",
+      "text": "Ich habe mich verlaufen.",
+      "pronunciation": "/ɪç hɑːbə mɪç fɛɾlˈaʊfən/",
+      "sortOrder": 4,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.emergency.i_lost_my_passport",
+      "categoryId": "phrase_category.emergency",
+      "text": "Ich habe meinen Pass verloren.",
+      "pronunciation": "/ɪç hɑːbə mˌaɪnən pˈas fɛɾlˈoːrən/",
+      "sortOrder": 5,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.emergency.i_need_a_hospital",
+      "categoryId": "phrase_category.emergency",
+      "text": "Ich brauche ein Krankenhaus.",
+      "pronunciation": "/ɪç bɾˈaʊxə aɪn kɾˈankənhˌaʊs/",
+      "sortOrder": 6,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.emergency.this_is_urgent",
+      "categoryId": "phrase_category.emergency",
+      "text": "Das ist dringend.",
+      "pronunciation": "/das ɪst dɾˈɪŋənt/",
+      "sortOrder": 7,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.emergency.i_need_help",
+      "categoryId": "phrase_category.emergency",
+      "text": "Ich brauche Hilfe.",
+      "pronunciation": "/ɪç bɾˈaʊxə hˈɪlfə/",
+      "sortOrder": 8,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.emergency.call_the_fire_department",
+      "categoryId": "phrase_category.emergency",
+      "text": "Rufen Sie die Feuerwehr.",
+      "pronunciation": "/rˈuːfən ziː diː fˈɔøɜvˌeːɾ/",
+      "sortOrder": 9,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.emergency.someone_is_hurt",
+      "categoryId": "phrase_category.emergency",
+      "text": "Jemand ist verletzt.",
+      "pronunciation": "/jˈeːmant ɪst fɛɾlˈɛtst/",
+      "sortOrder": 10,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.emergency.i_have_been_robbed",
+      "categoryId": "phrase_category.emergency",
+      "text": "Ich bin ausgeraubt worden.",
+      "pronunciation": "/ɪç bɪn ˈaʊsɡərˌaʊpt vˌɔɾdən/",
+      "sortOrder": 11,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.emergency.i_lost_my_wallet",
+      "categoryId": "phrase_category.emergency",
+      "text": "Ich habe meine Geldbörse verloren.",
+      "pronunciation": "/ɪç hɑːbə mˌaɪnə ɡˈɛldbœɾzə fɛɾlˈoːrən/",
+      "sortOrder": 12,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.emergency.i_lost_my_phone",
+      "categoryId": "phrase_category.emergency",
+      "text": "Ich habe mein Handy verloren.",
+      "pronunciation": "/ɪç hɑːbə maɪn hˈɛndiː fɛɾlˈoːrən/",
+      "sortOrder": 13,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.emergency.please_call_a_doctor",
+      "categoryId": "phrase_category.emergency",
+      "text": "Bitte rufen Sie einen Arzt.",
+      "pronunciation": "/bˈɪtə rˈuːfən ziː ˌaɪnən ˈaɾtst/",
+      "sortOrder": 14,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.emergency.where_is_the_nearest_hospital",
+      "categoryId": "phrase_category.emergency",
+      "text": "Wo ist das nächste Krankenhaus?",
+      "pronunciation": "/vˌoː ɪst das nˈɛçstə kɾˈankənhˌaʊs/",
+      "sortOrder": 15,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.emergency.i_need_the_police",
+      "categoryId": "phrase_category.emergency",
+      "text": "Ich brauche die Polizei.",
+      "pronunciation": "/ɪç bɾˈaʊxə diː pˌoːliːtsˈaɪ/",
+      "sortOrder": 16,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.emergency.there_has_been_an_accident",
+      "categoryId": "phrase_category.emergency",
+      "text": "Es hat einen Unfall gegeben.",
+      "pronunciation": "/ɛs hat ˌaɪnən ˈʊnfˌal ɡəɡˈeːbən/",
+      "sortOrder": 17,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.emergency.please_come_quickly",
+      "categoryId": "phrase_category.emergency",
+      "text": "Bitte kommen Sie schnell.",
+      "pronunciation": "/bˈɪtə kˈɔmən ziː ʃnˈɛl/",
+      "sortOrder": 18,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.emergency.i_am_in_danger",
+      "categoryId": "phrase_category.emergency",
+      "text": "Ich bin in Gefahr.",
+      "pronunciation": "/ɪç bɪn ɪn ɡəfˈɑːɾ/",
+      "sortOrder": 19,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.emergency.i_cant_find_my_child",
+      "categoryId": "phrase_category.emergency",
+      "text": "Ich finde mein Kind nicht.",
+      "pronunciation": "/ɪç fˈɪndə maɪn kˈɪnt nˈɪçt/",
+      "sortOrder": 20,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.emergency.i_need_an_interpreter",
+      "categoryId": "phrase_category.emergency",
+      "text": "Ich brauche einen Dolmetscher.",
+      "pronunciation": "/ɪç bɾˈaʊxə ˌaɪnən dˈɔlmɛtʃɜ/",
+      "sortOrder": 21,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.emergency.i_dont_feel_safe",
+      "categoryId": "phrase_category.emergency",
+      "text": "Ich fühle mich nicht sicher.",
+      "pronunciation": "/ɪç fˈyːlə mɪç nˈɪçt zˈɪçɜ/",
+      "sortOrder": 22,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.emergency.please_stay_with_me",
+      "categoryId": "phrase_category.emergency",
+      "text": "Bitte bleiben Sie bei mir.",
+      "pronunciation": "/bˈɪtə blˈaɪbən ziː baɪ mˈiːɾ/",
+      "sortOrder": 23,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.emergency.i_need_to_report_a_theft",
+      "categoryId": "phrase_category.emergency",
+      "text": "Ich muss einen Diebstahl melden.",
+      "pronunciation": "/ɪç mˈʊs ˌaɪnən dˈiːpʃtɑːl mˈɛldən/",
+      "sortOrder": 24,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.emergency.my_bag_was_stolen",
+      "categoryId": "phrase_category.emergency",
+      "text": "Meine Tasche wurde gestohlen.",
+      "pronunciation": "/mˌaɪnə tˈaʃə vˌʊɐdə ɡəʃtˈoːlən/",
+      "sortOrder": 25,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.emergency.i_need_the_embassy",
+      "categoryId": "phrase_category.emergency",
+      "text": "Ich brauche die Botschaft.",
+      "pronunciation": "/ɪç bɾˈaʊxə diː bˈoːtʃaft/",
+      "sortOrder": 26,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.emergency.i_cant_breathe",
+      "categoryId": "phrase_category.emergency",
+      "text": "Ich kann nicht atmen.",
+      "pronunciation": "/ɪç kˌan nˈɪçt ˈatmən/",
+      "sortOrder": 27,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.emergency.i_am_bleeding",
+      "categoryId": "phrase_category.emergency",
+      "text": "Ich blute.",
+      "pronunciation": "/ɪç blˈuːtə/",
+      "sortOrder": 28,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.emergency.please_call_my_family",
+      "categoryId": "phrase_category.emergency",
+      "text": "Bitte rufen Sie meine Familie an.",
+      "pronunciation": "/bˈɪtə rˈuːfən ziː mˌaɪnə famˈiːlɪə ˈan/",
+      "sortOrder": 29,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.emergency.is_anyone_hurt",
+      "categoryId": "phrase_category.emergency",
+      "text": "Ist jemand verletzt?",
+      "pronunciation": "/ɪst jˈeːmant fɛɾlˈɛtst/",
+      "sortOrder": 30,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.emergency.stay_calm",
+      "categoryId": "phrase_category.emergency",
+      "text": "Bleiben Sie ruhig.",
+      "pronunciation": "/blˈaɪbən ziː rˈuːɪç/",
+      "sortOrder": 31,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.emergency.where_is_the_emergency_exit",
+      "categoryId": "phrase_category.emergency",
+      "text": "Wo ist der Notausgang?",
+      "pronunciation": "/vˌoː ɪst dɛɾ nˈoːtaʊsɡˌaŋ/",
+      "sortOrder": 32,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.emergency.someone_is_following_me",
+      "categoryId": "phrase_category.emergency",
+      "text": "Jemand folgt mir.",
+      "pronunciation": "/jˈeːmant fˈɔlkt mˈiːɾ/",
+      "sortOrder": 33,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.emergency.i_need_to_go_to_the_hospital_now",
+      "categoryId": "phrase_category.emergency",
+      "text": "Ich muss jetzt ins Krankenhaus.",
+      "pronunciation": "/ɪç mˈʊs jˌɛtst ɪns kɾˈankənhˌaʊs/",
+      "sortOrder": 34,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.emergency.there_is_an_emergency",
+      "categoryId": "phrase_category.emergency",
+      "text": "Es gibt einen Notfall.",
+      "pronunciation": "/ɛs ɡˈiːpt ˌaɪnən nˈɔtfal/",
+      "sortOrder": 35,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.work.i_work_here",
+      "categoryId": "phrase_category.work",
+      "text": "Ich arbeite hier.",
+      "pronunciation": "/ɪç ˈaɾbaɪtə hˈiːɾ/",
+      "sortOrder": 0,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.work.i_have_a_meeting",
+      "categoryId": "phrase_category.work",
+      "text": "Ich habe eine Besprechung.",
+      "pronunciation": "/ɪç hɑːbə ˌaɪnə bəʃpɾˈɛçʊŋ/",
+      "sortOrder": 1,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.work.can_we_talk_later",
+      "categoryId": "phrase_category.work",
+      "text": "Können wir später sprechen?",
+      "pronunciation": "/kˌœnən viːɾ ʃpˈɛːtɜ ʃpɾˈɛçən/",
+      "sortOrder": 2,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.work.please_send_the_email",
+      "categoryId": "phrase_category.work",
+      "text": "Bitte senden Sie die E-Mail.",
+      "pronunciation": "/bˈɪtə zˈɛndən ziː diː ˈeːmˈeɪl/",
+      "sortOrder": 3,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.work.i_am_busy_today",
+      "categoryId": "phrase_category.work",
+      "text": "Ich bin heute beschäftigt.",
+      "pronunciation": "/ɪç bɪn hˈɔøtə bəʃˈɛftɪçt/",
+      "sortOrder": 4,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.work.what_is_the_deadline",
+      "categoryId": "phrase_category.work",
+      "text": "Was ist die Frist?",
+      "pronunciation": "/vˈas ɪst diː frˈɪst/",
+      "sortOrder": 5,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.work.nice_to_work_with_you",
+      "categoryId": "phrase_category.work",
+      "text": "Schön, mit Ihnen zu arbeiten.",
+      "pronunciation": "/ʃˈøːn mɪt ˌiːnən tsuː ˈaɾbaɪtən/",
+      "sortOrder": 6,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.work.i_am_on_a_break",
+      "categoryId": "phrase_category.work",
+      "text": "Ich habe Pause.",
+      "pronunciation": "/ɪç hɑːbə pˈaʊzə/",
+      "sortOrder": 7,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.work.i_will_be_late",
+      "categoryId": "phrase_category.work",
+      "text": "Ich werde zu spät kommen.",
+      "pronunciation": "/ɪç vˌɛɾdə tsuː ʃpˈɛːt kˈɔmən/",
+      "sortOrder": 8,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.work.where_is_the_meeting_room",
+      "categoryId": "phrase_category.work",
+      "text": "Wo ist der Besprechungsraum?",
+      "pronunciation": "/vˌoː ɪst dɛɾ bəʃpɾˈɛçʊŋsrˌaʊm/",
+      "sortOrder": 9,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.work.could_you_send_the_file",
+      "categoryId": "phrase_category.work",
+      "text": "Könnten Sie die Datei senden?",
+      "pronunciation": "/kˈœntən ziː diː datˈaɪ zˈɛndən/",
+      "sortOrder": 10,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.work.i_need_more_time",
+      "categoryId": "phrase_category.work",
+      "text": "Ich brauche mehr Zeit.",
+      "pronunciation": "/ɪç bɾˈaʊxə mˈeːɾ tsˈaɪt/",
+      "sortOrder": 11,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.work.lets_schedule_a_call",
+      "categoryId": "phrase_category.work",
+      "text": "Lassen Sie uns einen Anruf vereinbaren.",
+      "pronunciation": "/lˈasən ziː ʊns ˌaɪnən ˈanrˌuːf fɛɾˈaɪnbɑːrən/",
+      "sortOrder": 12,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.work.i_am_working_from_home_today",
+      "categoryId": "phrase_category.work",
+      "text": "Ich arbeite heute von zu Hause.",
+      "pronunciation": "/ɪç ˈaɾbaɪtə hˈɔøtə fɔn tsuː hˈaʊzə/",
+      "sortOrder": 13,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.work.can_you_join_the_meeting",
+      "categoryId": "phrase_category.work",
+      "text": "Können Sie an der Besprechung teilnehmen?",
+      "pronunciation": "/kˌœnən ziː an dɛɾ bəʃpɾˈɛçʊŋ tˈaɪlneːmən/",
+      "sortOrder": 14,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.work.ill_send_it_this_afternoon",
+      "categoryId": "phrase_category.work",
+      "text": "Ich schicke es heute Nachmittag.",
+      "pronunciation": "/ɪç ʃˈɪkə ɛs hˈɔøtə nˈaxmɪtˌɑːk/",
+      "sortOrder": 15,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.work.who_is_in_charge_of_this",
+      "categoryId": "phrase_category.work",
+      "text": "Wer ist dafür zuständig?",
+      "pronunciation": "/vˈeːɾ ɪst dɑːfˈyːɾ tsuːʃtˈɛndɪç/",
+      "sortOrder": 16,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.work.i_finished_the_report",
+      "categoryId": "phrase_category.work",
+      "text": "Ich habe den Bericht fertig.",
+      "pronunciation": "/ɪç hɑːbə deːn bərˈɪçt fˈɛɾtɪç/",
+      "sortOrder": 17,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.work.can_we_move_the_meeting",
+      "categoryId": "phrase_category.work",
+      "text": "Können wir die Besprechung verschieben?",
+      "pronunciation": "/kˌœnən viːɾ diː bəʃpɾˈɛçʊŋ fɛɾʃˈiːbən/",
+      "sortOrder": 18,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.work.i_have_another_meeting_after_this",
+      "categoryId": "phrase_category.work",
+      "text": "Danach habe ich noch eine Besprechung.",
+      "pronunciation": "/danˈax hɑːbə ɪç nɔx ˌaɪnə bəʃpɾˈɛçʊŋ/",
+      "sortOrder": 19,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.work.could_you_repeat_the_last_point",
+      "categoryId": "phrase_category.work",
+      "text": "Könnten Sie den letzten Punkt wiederholen?",
+      "pronunciation": "/kˈœntən ziː deːn lˈɛtstən pˈʊŋkt viːdɜhˈoːlən/",
+      "sortOrder": 20,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.work.could_you_speak_up",
+      "categoryId": "phrase_category.work",
+      "text": "Könnten Sie lauter sprechen?",
+      "pronunciation": "/kˈœntən ziː lˈaʊtɜ ʃpɾˈɛçən/",
+      "sortOrder": 21,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.work.lets_take_a_short_break",
+      "categoryId": "phrase_category.work",
+      "text": "Machen wir eine kurze Pause.",
+      "pronunciation": "/mˈaxən viːɾ ˌaɪnə kˈʊɐtsə pˈaʊzə/",
+      "sortOrder": 22,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.work.ill_get_back_to_you_tomorrow",
+      "categoryId": "phrase_category.work",
+      "text": "Ich melde mich morgen bei Ihnen.",
+      "pronunciation": "/ɪç mˈɛldə mɪç mˈɔɾɡən baɪ ˈiːnən/",
+      "sortOrder": 23,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.work.can_you_review_this",
+      "categoryId": "phrase_category.work",
+      "text": "Können Sie das prüfen?",
+      "pronunciation": "/kˌœnən ziː das pɾˈyːfən/",
+      "sortOrder": 24,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.work.where_is_the_printer",
+      "categoryId": "phrase_category.work",
+      "text": "Wo ist der Drucker?",
+      "pronunciation": "/vˌoː ɪst dɛɾ dɾˈʊkɜ/",
+      "sortOrder": 25,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.work.the_internet_is_down",
+      "categoryId": "phrase_category.work",
+      "text": "Das Internet ist ausgefallen.",
+      "pronunciation": "/das ˈɪntɜnˌɛt ɪst ˈaʊsɡəfˌalən/",
+      "sortOrder": 26,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.work.ill_call_you_back",
+      "categoryId": "phrase_category.work",
+      "text": "Ich rufe Sie zurück.",
+      "pronunciation": "/ɪç rˈuːfə ziː tsuːrˈʏk/",
+      "sortOrder": 27,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.work.please_keep_me_updated",
+      "categoryId": "phrase_category.work",
+      "text": "Bitte halten Sie mich auf dem Laufenden.",
+      "pronunciation": "/bˈɪtə hˈaltən ziː mɪç aʊf deːm lˈaʊfəndən/",
+      "sortOrder": 28,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.work.i_am_in_a_meeting_right_now",
+      "categoryId": "phrase_category.work",
+      "text": "Ich bin gerade in einer Besprechung.",
+      "pronunciation": "/ɪç bɪn ɡərˈɑːdə ɪn ˌaɪnɜ bəʃpɾˈɛçʊŋ/",
+      "sortOrder": 29,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.work.can_we_discuss_this_tomorrow",
+      "categoryId": "phrase_category.work",
+      "text": "Können wir das morgen besprechen?",
+      "pronunciation": "/kˌœnən viːɾ das mˈɔɾɡən bəʃpɾˈɛçən/",
+      "sortOrder": 30,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.work.that_works_for_me",
+      "categoryId": "phrase_category.work",
+      "text": "Das passt für mich.",
+      "pronunciation": "/das pˈast fyːɾ mɪç/",
+      "sortOrder": 31,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.work.i_cant_make_it_today",
+      "categoryId": "phrase_category.work",
+      "text": "Heute schaffe ich es nicht.",
+      "pronunciation": "/hˈɔøtə ʃˈafə ɪç ɛs nˈɪçt/",
+      "sortOrder": 32,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.work.please_copy_me_on_the_email",
+      "categoryId": "phrase_category.work",
+      "text": "Bitte setzen Sie mich ins CC.",
+      "pronunciation": "/bˈɪtə zˈɛtsən ziː mɪç ɪns tsˌeːtsˈeː/",
+      "sortOrder": 33,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.work.i_need_your_feedback",
+      "categoryId": "phrase_category.work",
+      "text": "Ich brauche Ihr Feedback.",
+      "pronunciation": "/ɪç bɾˈaʊxə iːɾ fˈeːdbak/",
+      "sortOrder": 34,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.work.thank_you_for_the_update",
+      "categoryId": "phrase_category.work",
+      "text": "Danke für die Aktualisierung.",
+      "pronunciation": "/dˈaŋkə fyːɾ diː ˌaktuːˌɑliːzˈiːrʊŋ/",
+      "sortOrder": 35,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.school.i_am_a_student",
+      "categoryId": "phrase_category.school",
+      "text": "Ich bin Schüler.",
+      "pronunciation": "/ɪç bɪn ʃˈyːlɜ/",
+      "sortOrder": 0,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.school.where_is_the_classroom",
+      "categoryId": "phrase_category.school",
+      "text": "Wo ist das Klassenzimmer?",
+      "pronunciation": "/vˌoː ɪst das klˈasəntsˌɪmɜ/",
+      "sortOrder": 1,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.school.i_have_homework",
+      "categoryId": "phrase_category.school",
+      "text": "Ich habe Hausaufgaben.",
+      "pronunciation": "/ɪç hɑːbə hˈaʊsˌaʊfɡˌɑːbən/",
+      "sortOrder": 2,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.school.i_dont_understand_this_lesson",
+      "categoryId": "phrase_category.school",
+      "text": "Ich verstehe diese Stunde nicht.",
+      "pronunciation": "/ɪç fɛɾʃtˈeːə dˌiːzə ʃtˈʊndə nˈɪçt/",
+      "sortOrder": 3,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.school.may_i_ask_a_question",
+      "categoryId": "phrase_category.school",
+      "text": "Darf ich eine Frage stellen?",
+      "pronunciation": "/dˈaɾf ɪç ˌaɪnə frˈɑːɡə ʃtˈɛlən/",
+      "sortOrder": 4,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.school.the_exam_is_tomorrow",
+      "categoryId": "phrase_category.school",
+      "text": "Die Prüfung ist morgen.",
+      "pronunciation": "/diː pɾˈyːfʊŋ ɪst mˈɔɾɡən/",
+      "sortOrder": 5,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.school.can_you_explain_this",
+      "categoryId": "phrase_category.school",
+      "text": "Können Sie das erklären?",
+      "pronunciation": "/kˌœnən ziː das ɛɾklˈɛːrən/",
+      "sortOrder": 6,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.school.i_need_a_pen",
+      "categoryId": "phrase_category.school",
+      "text": "Ich brauche einen Kugelschreiber.",
+      "pronunciation": "/ɪç bɾˈaʊxə ˌaɪnən kˈuːɡəlʃrˌaɪbɜ/",
+      "sortOrder": 7,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.school.i_am_late_for_class",
+      "categoryId": "phrase_category.school",
+      "text": "Ich komme zu spät zum Unterricht.",
+      "pronunciation": "/ɪç kˈɔmə tsuː ʃpˈɛːt tsʊm ˌʊntɜrˈɪçt/",
+      "sortOrder": 8,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.school.which_page_are_we_on",
+      "categoryId": "phrase_category.school",
+      "text": "Auf welcher Seite sind wir?",
+      "pronunciation": "/aʊf vˈɛlçɜ zˈaɪtə zɪnt viːɾ/",
+      "sortOrder": 9,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.school.i_didnt_do_my_homework",
+      "categoryId": "phrase_category.school",
+      "text": "Ich habe meine Hausaufgaben nicht gemacht.",
+      "pronunciation": "/ɪç hɑːbə mˌaɪnə hˈaʊsˌaʊfɡˌɑːbən nˈɪçt ɡəmˈaxt/",
+      "sortOrder": 10,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.school.could_you_say_that_again_more_slowly",
+      "categoryId": "phrase_category.school",
+      "text": "Könnten Sie das langsamer wiederholen?",
+      "pronunciation": "/kˈœntən ziː das lˈaŋzɑːmɜ viːdɜhˈoːlən/",
+      "sortOrder": 11,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.school.could_you_check_my_answer",
+      "categoryId": "phrase_category.school",
+      "text": "Könnten Sie meine Antwort prüfen?",
+      "pronunciation": "/kˈœntən ziː mˌaɪnə ˈantvɔɾt pɾˈyːfən/",
+      "sortOrder": 12,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.school.when_is_the_assignment_due",
+      "categoryId": "phrase_category.school",
+      "text": "Wann ist die Arbeit fällig?",
+      "pronunciation": "/vˈan ɪst diː ˈaɾbaɪt fˈɛlɪç/",
+      "sortOrder": 13,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.school.can_i_borrow_a_pencil",
+      "categoryId": "phrase_category.school",
+      "text": "Kann ich mir einen Bleistift leihen?",
+      "pronunciation": "/kˌan ɪç miːɾ ˌaɪnən blˈaɪstɪft lˈaɪən/",
+      "sortOrder": 14,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.school.where_is_the_library",
+      "categoryId": "phrase_category.school",
+      "text": "Wo ist die Bibliothek?",
+      "pronunciation": "/vˌoː ɪst diː bˌɪblɪoːtˈeːk/",
+      "sortOrder": 15,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.school.i_need_to_talk_to_the_teacher",
+      "categoryId": "phrase_category.school",
+      "text": "Ich muss mit dem Lehrer sprechen.",
+      "pronunciation": "/ɪç mˈʊs mɪt deːm lˈeːrɜ ʃpɾˈɛçən/",
+      "sortOrder": 16,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.school.i_was_absent_yesterday",
+      "categoryId": "phrase_category.school",
+      "text": "Ich war gestern nicht da.",
+      "pronunciation": "/ɪç vɑːɾ ɡˈɛstɜn nˈɪçt dˈɑː/",
+      "sortOrder": 17,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.school.can_i_go_to_the_restroom",
+      "categoryId": "phrase_category.school",
+      "text": "Darf ich auf die Toilette?",
+      "pronunciation": "/dˈaɾf ɪç aʊf diː tˈoːiːlˌɛtə/",
+      "sortOrder": 18,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.school.i_dont_understand_the_question",
+      "categoryId": "phrase_category.school",
+      "text": "Ich verstehe die Frage nicht.",
+      "pronunciation": "/ɪç fɛɾʃtˈeːə diː frˈɑːɡə nˈɪçt/",
+      "sortOrder": 19,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.school.is_this_going_to_be_on_the_test",
+      "categoryId": "phrase_category.school",
+      "text": "Kommt das in der Prüfung?",
+      "pronunciation": "/kˈɔmt das ɪn dɛɾ pɾˈyːfʊŋ/",
+      "sortOrder": 20,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.school.i_need_more_time_to_finish",
+      "categoryId": "phrase_category.school",
+      "text": "Ich brauche mehr Zeit zum Fertigmachen.",
+      "pronunciation": "/ɪç bɾˈaʊxə mˈeːɾ tsˈaɪt tsʊm fˈɛɾtɪçmˌaxən/",
+      "sortOrder": 21,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.school.can_i_sit_next_to_you",
+      "categoryId": "phrase_category.school",
+      "text": "Darf ich mich neben dich setzen?",
+      "pronunciation": "/dˈaɾf ɪç mɪç nˌeːbən dɪç zˈɛtsən/",
+      "sortOrder": 22,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.school.i_left_my_book_at_home",
+      "categoryId": "phrase_category.school",
+      "text": "Ich habe mein Buch zu Hause gelassen.",
+      "pronunciation": "/ɪç hɑːbə maɪn bˈuːx tsuː hˈaʊzə ɡəlˈasən/",
+      "sortOrder": 23,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.school.what_is_the_homework_for_tomorrow",
+      "categoryId": "phrase_category.school",
+      "text": "Was ist die Hausaufgabe für morgen?",
+      "pronunciation": "/vˈas ɪst diː hˈaʊsˌaʊfɡˌɑːbə fyːɾ mˈɔɾɡən/",
+      "sortOrder": 24,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.school.could_you_write_it_on_the_board",
+      "categoryId": "phrase_category.school",
+      "text": "Könnten Sie das an die Tafel schreiben?",
+      "pronunciation": "/kˈœntən ziː das an diː tˈɑfəl ʃrˈaɪbən/",
+      "sortOrder": 25,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.school.i_finished_the_exercise",
+      "categoryId": "phrase_category.school",
+      "text": "Ich habe die Aufgabe fertig.",
+      "pronunciation": "/ɪç hɑːbə diː ˈaʊfɡˌɑːbə fˈɛɾtɪç/",
+      "sortOrder": 26,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.school.i_am_in_the_wrong_classroom",
+      "categoryId": "phrase_category.school",
+      "text": "Ich bin im falschen Klassenzimmer.",
+      "pronunciation": "/ɪç bɪn ɪm fˈalʃən klˈasəntsˌɪmɜ/",
+      "sortOrder": 27,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.school.the_class_starts_at_nine",
+      "categoryId": "phrase_category.school",
+      "text": "Der Unterricht beginnt um neun.",
+      "pronunciation": "/dɛɾ ˌʊntɜrˈɪçt bəɡˈɪnt ʊm nˈɔøn/",
+      "sortOrder": 28,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.school.i_need_help_with_this_exercise",
+      "categoryId": "phrase_category.school",
+      "text": "Ich brauche Hilfe bei dieser Aufgabe.",
+      "pronunciation": "/ɪç bɾˈaʊxə hˈɪlfə baɪ dˌiːzɜ ˈaʊfɡˌɑːbə/",
+      "sortOrder": 29,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.school.how_do_you_pronounce_this",
+      "categoryId": "phrase_category.school",
+      "text": "Wie spricht man das aus?",
+      "pronunciation": "/viː ʃpɾˈɪçt man das ˈaʊs/",
+      "sortOrder": 30,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.school.what_does_this_word_mean",
+      "categoryId": "phrase_category.school",
+      "text": "Was bedeutet dieses Wort?",
+      "pronunciation": "/vˈas bədˈɔøtət dˌiːzəs vˈɔɾt/",
+      "sortOrder": 31,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.school.i_got_a_good_grade",
+      "categoryId": "phrase_category.school",
+      "text": "Ich habe eine gute Note bekommen.",
+      "pronunciation": "/ɪç hɑːbə ˌaɪnə ɡˈuːtə nˈoːtə bəkˈɔmən/",
+      "sortOrder": 32,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.school.i_need_to_study_more",
+      "categoryId": "phrase_category.school",
+      "text": "Ich muss mehr lernen.",
+      "pronunciation": "/ɪç mˈʊs mˈeːɾ lˈɛɾnən/",
+      "sortOrder": 33,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.school.see_you_after_class",
+      "categoryId": "phrase_category.school",
+      "text": "Wir sehen uns nach dem Unterricht.",
+      "pronunciation": "/viːɾ zˈeːən ʊns nɑːx deːm ˌʊntɜrˈɪçt/",
+      "sortOrder": 34,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.school.can_i_have_a_copy_of_the_worksheet",
+      "categoryId": "phrase_category.school",
+      "text": "Kann ich eine Kopie des Arbeitsblatts haben?",
+      "pronunciation": "/kˌan ɪç ˌaɪnə koːpˈiː dɛs ˈaɾbaɪtsblˌats hˈɑːbən/",
+      "sortOrder": 35,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.social_situations.would_you_like_to_join_us",
+      "categoryId": "phrase_category.social_situations",
+      "text": "Möchtest du mitkommen?",
+      "pronunciation": "/mˈœçtəst duː mˈɪtkˌɔmən/",
+      "sortOrder": 0,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.social_situations.this_is_a_gift_for_you",
+      "categoryId": "phrase_category.social_situations",
+      "text": "Das ist ein Geschenk für dich.",
+      "pronunciation": "/das ɪst aɪn ɡəʃˈɛŋk fyːɾ dˈɪç/",
+      "sortOrder": 1,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.social_situations.congratulations",
+      "categoryId": "phrase_category.social_situations",
+      "text": "Herzlichen Glückwunsch.",
+      "pronunciation": "/hˈɛɾtslɪçən ɡlˈʏkvʊnʃ/",
+      "sortOrder": 2,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.social_situations.happy_birthday",
+      "categoryId": "phrase_category.social_situations",
+      "text": "Alles Gute zum Geburtstag.",
+      "pronunciation": "/ˈaləs ɡˈuːtə tsʊm ɡəbˈʊɐtstɑːk/",
+      "sortOrder": 3,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.social_situations.i_am_sorry_i_am_late",
+      "categoryId": "phrase_category.social_situations",
+      "text": "Entschuldigung, dass ich zu spät bin.",
+      "pronunciation": "/ɛntʃˈʊldɪɡˌʊŋ das ɪç tsuː ʃpˈɛːt bɪn/",
+      "sortOrder": 4,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.social_situations.can_i_take_a_photo",
+      "categoryId": "phrase_category.social_situations",
+      "text": "Darf ich ein Foto machen?",
+      "pronunciation": "/dˈaɾf ɪç aɪn fˈoːtoː mˈaxən/",
+      "sortOrder": 5,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.social_situations.have_a_good_weekend",
+      "categoryId": "phrase_category.social_situations",
+      "text": "Schönes Wochenende.",
+      "pronunciation": "/ʃˈøːnəs vˈɔxənəndə/",
+      "sortOrder": 6,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.social_situations.lets_stay_in_touch",
+      "categoryId": "phrase_category.social_situations",
+      "text": "Lass uns in Kontakt bleiben.",
+      "pronunciation": "/lˈas ʊns ɪn kɔntˈakt blˈaɪbən/",
+      "sortOrder": 7,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.social_situations.how_was_your_weekend",
+      "categoryId": "phrase_category.social_situations",
+      "text": "Wie war dein Wochenende?",
+      "pronunciation": "/viː vɑːɾ daɪn vˈɔxənəndə/",
+      "sortOrder": 8,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.social_situations.would_you_like_some_coffee",
+      "categoryId": "phrase_category.social_situations",
+      "text": "Möchtest du einen Kaffee?",
+      "pronunciation": "/mˈœçtəst duː ˌaɪnən kˈafeː/",
+      "sortOrder": 9,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.social_situations.make_yourself_at_home",
+      "categoryId": "phrase_category.social_situations",
+      "text": "Fühl dich wie zu Hause.",
+      "pronunciation": "/fˈyːl dɪç viː tsuː hˈaʊzə/",
+      "sortOrder": 10,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.social_situations.cheers",
+      "categoryId": "phrase_category.social_situations",
+      "text": "Prost!",
+      "pronunciation": "/pɾˈɔst/",
+      "sortOrder": 11,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.social_situations.enjoy_yourself",
+      "categoryId": "phrase_category.social_situations",
+      "text": "Viel Spaß.",
+      "pronunciation": "/fˈiːl ʃpˈɑːs/",
+      "sortOrder": 12,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.social_situations.lets_have_dinner_together",
+      "categoryId": "phrase_category.social_situations",
+      "text": "Lass uns zusammen zu Abend essen.",
+      "pronunciation": "/lˈas ʊns tsuːzˈamən tsuː ˈɑːbənt ˈɛsən/",
+      "sortOrder": 13,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.social_situations.are_you_free_this_evening",
+      "categoryId": "phrase_category.social_situations",
+      "text": "Hast du heute Abend Zeit?",
+      "pronunciation": "/hast duː hˈɔøtə ˈɑːbənt tsˈaɪt/",
+      "sortOrder": 14,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.social_situations.would_you_like_to_go_for_a_walk",
+      "categoryId": "phrase_category.social_situations",
+      "text": "Möchtest du spazieren gehen?",
+      "pronunciation": "/mˈœçtəst duː ʃpatsˈiːrən ɡˈeːən/",
+      "sortOrder": 15,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.social_situations.that_was_fun",
+      "categoryId": "phrase_category.social_situations",
+      "text": "Das hat Spaß gemacht.",
+      "pronunciation": "/das hat ʃpˈɑːs ɡəmˈaxt/",
+      "sortOrder": 16,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.social_situations.i_had_a_great_time",
+      "categoryId": "phrase_category.social_situations",
+      "text": "Ich hatte eine tolle Zeit.",
+      "pronunciation": "/ɪç hˌatə ˌaɪnə tˈɔlə tsˈaɪt/",
+      "sortOrder": 17,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.social_situations.thank_you_for_coming",
+      "categoryId": "phrase_category.social_situations",
+      "text": "Danke, dass du gekommen bist.",
+      "pronunciation": "/dˈaŋkə das duː ɡəkˈɔmən bɪst/",
+      "sortOrder": 18,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.social_situations.please_sit_down",
+      "categoryId": "phrase_category.social_situations",
+      "text": "Bitte setz dich.",
+      "pronunciation": "/bˈɪtə zˈɛts dˈɪç/",
+      "sortOrder": 19,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.social_situations.help_yourself",
+      "categoryId": "phrase_category.social_situations",
+      "text": "Bedien dich.",
+      "pronunciation": "/bədˈiːn dˈɪç/",
+      "sortOrder": 20,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.social_situations.can_i_get_you_anything",
+      "categoryId": "phrase_category.social_situations",
+      "text": "Kann ich dir etwas bringen?",
+      "pronunciation": "/kˌan ɪç diːɾ ˈɛtvɑːs bɾˈɪŋən/",
+      "sortOrder": 21,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.social_situations.it_was_nice_talking_to_you",
+      "categoryId": "phrase_category.social_situations",
+      "text": "Es war schön, mit dir zu sprechen.",
+      "pronunciation": "/ɛs vɑːɾ ʃˈøːn mɪt diːɾ tsuː ʃpɾˈɛçən/",
+      "sortOrder": 22,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.social_situations.lets_do_this_again",
+      "categoryId": "phrase_category.social_situations",
+      "text": "Lass uns das bald wieder machen.",
+      "pronunciation": "/las ʊns das balt ˈviːdɐ ˈmaxn/",
+      "sortOrder": 23,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.social_situations.say_hello_to_your_family",
+      "categoryId": "phrase_category.social_situations",
+      "text": "Grüß deine Familie.",
+      "pronunciation": "/ɡɾˈyːs dˌaɪnə famˈiːlɪə/",
+      "sortOrder": 24,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.social_situations.give_me_a_call",
+      "categoryId": "phrase_category.social_situations",
+      "text": "Ruf mich an.",
+      "pronunciation": "/rˈuːf mɪç ˈan/",
+      "sortOrder": 25,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.social_situations.ill_text_you",
+      "categoryId": "phrase_category.social_situations",
+      "text": "Ich schicke dir eine Nachricht.",
+      "pronunciation": "/ɪç ʃˈɪkə diːɾ ˌaɪnə nˈaxrɪçt/",
+      "sortOrder": 26,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.social_situations.whats_your_number",
+      "categoryId": "phrase_category.social_situations",
+      "text": "Wie ist deine Nummer?",
+      "pronunciation": "/viː ɪst dˌaɪnə nˈʊmɜ/",
+      "sortOrder": 27,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.social_situations.happy_holidays",
+      "categoryId": "phrase_category.social_situations",
+      "text": "Schöne Feiertage.",
+      "pronunciation": "/ʃˈøːnə fˈaɪɜtˌɑːɡə/",
+      "sortOrder": 28,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.social_situations.all_the_best",
+      "categoryId": "phrase_category.social_situations",
+      "text": "Alles Gute.",
+      "pronunciation": "/ˈaləs ɡˈuːtə/",
+      "sortOrder": 29,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.social_situations.im_so_happy_for_you",
+      "categoryId": "phrase_category.social_situations",
+      "text": "Ich freue mich so für dich.",
+      "pronunciation": "/ɪç frˈɔøə mɪç zoː fyːɾ dˈɪç/",
+      "sortOrder": 30,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.social_situations.thats_so_kind_of_you",
+      "categoryId": "phrase_category.social_situations",
+      "text": "Das ist sehr nett von dir.",
+      "pronunciation": "/das ɪst zˈeːɾ nˈɛt fɔn dˈiːɾ/",
+      "sortOrder": 31,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.social_situations.dont_mention_it",
+      "categoryId": "phrase_category.social_situations",
+      "text": "Keine Ursache.",
+      "pronunciation": "/kˈaɪnə ˈʊɐzaxə/",
+      "sortOrder": 32,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.social_situations.lets_take_a_picture",
+      "categoryId": "phrase_category.social_situations",
+      "text": "Machen wir ein Foto.",
+      "pronunciation": "/mˈaxən viːɾ aɪn fˈoːtoː/",
+      "sortOrder": 33,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.social_situations.please_enjoy_the_party",
+      "categoryId": "phrase_category.social_situations",
+      "text": "Viel Spaß auf der Party.",
+      "pronunciation": "/fˈiːl ʃpˈɑːs aʊf dɛɾ pˈɑːti/",
+      "sortOrder": 34,
+      "quizEnabled": true
+    },
+    {
+      "id": "phrase.social_situations.would_you_like_a_drink",
+      "categoryId": "phrase_category.social_situations",
+      "text": "Möchtest du etwas trinken?",
+      "pronunciation": "/mˈœçtəst duː ˈɛtvɑːs tɾˈɪŋkən/",
+      "sortOrder": 35,
+      "quizEnabled": true
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "learn_german",
+  "displayName": "Learn German for Beginners",
+  "targetLanguageName": "German",
+  "targetLanguageCode": "de",
+  "nativeLanguageName": "Deutsch",
+  "textDirection": "ltr",
+  "writingSystem": "alphabet",
+  "primaryAccentColor": "#C46A3C",
+  "contentPackPath": "assets/content",
+  "defaultTranslationLanguage": "en",
+  "speechLocale": "de-DE",
+  "speech": {
+    "locale": "de-DE",
+    "preferredVoiceName": "Anna",
+    "preferredVoiceNames": [
+      "Anna (Premium)",
+      "Anna (Enhanced)",
+      "Helena (Premium)",
+      "Helena (Enhanced)",
+      "Helena",
+      "Petra (Enhanced)",
+      "Petra"
+    ],
+    "preferredGender": "female",
+    "rate": 0.47,
+    "pitch": 1.0
+  },
+  "supportedTranslationLanguages": [
+    "en",
+    "tr",
+    "es",
+    "ar",
+    "fr",
+    "de",
+    "ru",
+    "pt",
+    "it",
+    "ja",
+    "ko",
+    "zh",
+    "hi",
+    "id",
+    "fa"
+  ],
+  "featureFlags": {
+    "alphabet": true,
+    "audio": true
+  }
+}

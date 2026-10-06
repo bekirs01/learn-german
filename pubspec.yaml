@@ -1,0 +1,42 @@
+name: lingo_core
+description: "Learn German for Beginners — premium offline German learning app"
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.11.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  characters: ^1.4.0
+  shared_preferences: ^2.5.5
+  audioplayers: ^6.7.1
+  flutter_tts: ^4.2.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/product.json
+    - assets/content/
+    - assets/content/translations/
+    - assets/images/backgrounds/
+    - assets/images/categories/words/
+    - assets/images/categories/phrases/
+    - assets/images/alphabet/
+    - assets/images/home/
+    - assets/sounds/sfx_tap.wav
+    - assets/sounds/sfx_selection.wav
+    - assets/sounds/sfx_correct.wav
+    - assets/sounds/sfx_wrong.wav
+    - assets/sounds/sfx_success.wav
+    - assets/audio/de/alphabet/
+    - assets/audio/de/words/
+    - assets/audio/de/phrases/

@@ -1,0 +1,165 @@
+{
+  "items": [
+    {
+      "id": "word_category.basics",
+      "title": "Basics",
+      "artKind": "basics",
+      "sortOrder": 0,
+      "imageAssetId": "words.basics"
+    },
+    {
+      "id": "word_category.numbers",
+      "title": "Numbers",
+      "artKind": "numbers",
+      "sortOrder": 1,
+      "imageAssetId": "words.numbers"
+    },
+    {
+      "id": "word_category.colors",
+      "title": "Colors",
+      "artKind": "colors",
+      "sortOrder": 2,
+      "imageAssetId": "words.colors"
+    },
+    {
+      "id": "word_category.family",
+      "title": "Family",
+      "artKind": "family",
+      "sortOrder": 3,
+      "imageAssetId": "words.family"
+    },
+    {
+      "id": "word_category.people",
+      "title": "People",
+      "artKind": "people",
+      "sortOrder": 4,
+      "imageAssetId": "words.people"
+    },
+    {
+      "id": "word_category.body",
+      "title": "Body",
+      "artKind": "body",
+      "sortOrder": 5,
+      "imageAssetId": "words.body"
+    },
+    {
+      "id": "word_category.emotions",
+      "title": "Emotions",
+      "artKind": "emotions",
+      "sortOrder": 6,
+      "imageAssetId": "words.emotions"
+    },
+    {
+      "id": "word_category.food",
+      "title": "Food",
+      "artKind": "food",
+      "sortOrder": 7,
+      "imageAssetId": "words.food"
+    },
+    {
+      "id": "word_category.drinks",
+      "title": "Drinks",
+      "artKind": "drinks",
+      "sortOrder": 8,
+      "imageAssetId": "words.drinks"
+    },
+    {
+      "id": "word_category.home",
+      "title": "Home",
+      "artKind": "home",
+      "sortOrder": 9,
+      "imageAssetId": "words.home"
+    },
+    {
+      "id": "word_category.clothing",
+      "title": "Clothing",
+      "artKind": "clothing",
+      "sortOrder": 10,
+      "imageAssetId": "words.clothing"
+    },
+    {
+      "id": "word_category.animals",
+      "title": "Animals",
+      "artKind": "animals",
+      "sortOrder": 11,
+      "imageAssetId": "words.animals"
+    },
+    {
+      "id": "word_category.nature",
+      "title": "Nature",
+      "artKind": "nature",
+      "sortOrder": 12,
+      "imageAssetId": "words.nature"
+    },
+    {
+      "id": "word_category.weather",
+      "title": "Weather",
+      "artKind": "weather",
+      "sortOrder": 13,
+      "imageAssetId": "words.weather"
+    },
+    {
+      "id": "word_category.school",
+      "title": "School",
+      "artKind": "school",
+      "sortOrder": 14,
+      "imageAssetId": "words.school"
+    },
+    {
+      "id": "word_category.work",
+      "title": "Work",
+      "artKind": "work",
+      "sortOrder": 15,
+      "imageAssetId": "words.work"
+    },
+    {
+      "id": "word_category.sports",
+      "title": "Sports",
+      "artKind": "sports",
+      "sortOrder": 16,
+      "imageAssetId": "words.sports"
+    },
+    {
+      "id": "word_category.shopping",
+      "title": "Shopping",
+      "artKind": "shopping",
+      "sortOrder": 17,
+      "imageAssetId": "words.shopping"
+    },
+    {
+      "id": "word_category.travel",
+      "title": "Travel",
+      "artKind": "travel",
+      "sortOrder": 18,
+      "imageAssetId": "words.travel"
+    },
+    {
+      "id": "word_category.transportation",
+      "title": "Transportation",
+      "artKind": "transportation",
+      "sortOrder": 19,
+      "imageAssetId": "words.transportation"
+    },
+    {
+      "id": "word_category.health",
+      "title": "Health",
+      "artKind": "health",
+      "sortOrder": 20,
+      "imageAssetId": "words.health"
+    },
+    {
+      "id": "word_category.time",
+      "title": "Time",
+      "artKind": "time",
+      "sortOrder": 21,
+      "imageAssetId": "words.time"
+    },
+    {
+      "id": "word_category.places",
+      "title": "Places",
+      "artKind": "places",
+      "sortOrder": 22,
+      "imageAssetId": "words.places"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "images" : [
+    {
+      "filename" : "paper_crumpled_watch.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

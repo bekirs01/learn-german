@@ -1,0 +1,123 @@
+{
+  "items": [
+    {
+      "id": "phrase_category.greetings",
+      "title": "Greetings",
+      "artKind": "greetings",
+      "sortOrder": 0,
+      "imageAssetId": "phrases.greetings"
+    },
+    {
+      "id": "phrase_category.introductions",
+      "title": "Introductions",
+      "artKind": "introductions",
+      "sortOrder": 1,
+      "imageAssetId": "phrases.introductions"
+    },
+    {
+      "id": "phrase_category.daily_conversation",
+      "title": "Daily conversation",
+      "artKind": "dailyConversation",
+      "sortOrder": 2,
+      "imageAssetId": "phrases.daily_conversation"
+    },
+    {
+      "id": "phrase_category.questions",
+      "title": "Questions",
+      "artKind": "questions",
+      "sortOrder": 3,
+      "imageAssetId": "phrases.questions"
+    },
+    {
+      "id": "phrase_category.restaurant",
+      "title": "Restaurant",
+      "artKind": "restaurant",
+      "sortOrder": 4,
+      "imageAssetId": "phrases.restaurant"
+    },
+    {
+      "id": "phrase_category.cafe",
+      "title": "Cafe",
+      "artKind": "cafe",
+      "sortOrder": 5,
+      "imageAssetId": "phrases.cafe"
+    },
+    {
+      "id": "phrase_category.shopping",
+      "title": "Shopping",
+      "artKind": "shoppingPhrases",
+      "sortOrder": 6,
+      "imageAssetId": "phrases.shopping"
+    },
+    {
+      "id": "phrase_category.hotel",
+      "title": "Hotel",
+      "artKind": "hotel",
+      "sortOrder": 7,
+      "imageAssetId": "phrases.hotel"
+    },
+    {
+      "id": "phrase_category.airport",
+      "title": "Airport",
+      "artKind": "airport",
+      "sortOrder": 8,
+      "imageAssetId": "phrases.airport"
+    },
+    {
+      "id": "phrase_category.transportation",
+      "title": "Transportation",
+      "artKind": "transportation",
+      "sortOrder": 9,
+      "imageAssetId": "phrases.transportation"
+    },
+    {
+      "id": "phrase_category.directions",
+      "title": "Directions",
+      "artKind": "directions",
+      "sortOrder": 10,
+      "imageAssetId": "phrases.directions"
+    },
+    {
+      "id": "phrase_category.doctor",
+      "title": "Doctor",
+      "artKind": "doctor",
+      "sortOrder": 11,
+      "imageAssetId": "phrases.doctor"
+    },
+    {
+      "id": "phrase_category.pharmacy",
+      "title": "Pharmacy",
+      "artKind": "pharmacy",
+      "sortOrder": 12,
+      "imageAssetId": "phrases.pharmacy"
+    },
+    {
+      "id": "phrase_category.emergency",
+      "title": "Emergency",
+      "artKind": "emergency",
+      "sortOrder": 13,
+      "imageAssetId": "phrases.emergency"
+    },
+    {
+      "id": "phrase_category.work",
+      "title": "Work",
+      "artKind": "work",
+      "sortOrder": 14,
+      "imageAssetId": "words.work"
+    },
+    {
+      "id": "phrase_category.school",
+      "title": "School",
+      "artKind": "school",
+      "sortOrder": 15,
+      "imageAssetId": "words.school"
+    },
+    {
+      "id": "phrase_category.social_situations",
+      "title": "Social situations",
+      "artKind": "socialSituations",
+      "sortOrder": 16,
+      "imageAssetId": "phrases.social_situations"
+    }
+  ]
+}
